@@ -48,9 +48,9 @@ macOS is in the 'unix' family
 
 # Ruby
 Ruby comes preinstalled on macOS
-* `ruby`
 * `ruby --version` or `ruby -v` to check version
 This is your system ruby. You'll need to install different versions when developing rails applications. We'll get into this later.
+* Make sure you are using the correct version in [Ruby Docs](https://ruby-doc.org/) 
 * `gem list` to see all the libraries installed with this ruby
 
 ---
