@@ -102,6 +102,13 @@ puts "Hello #{name}"
 
 ---
 
+# Download Treehouse Workspace
+* Click `File`, `Download Workspace`
+
+![bg right](treehouse-workspace.png)
+
+---
+
 # Create And Open HTML File
 * `touch hello.html`
 * `command + p` to open command pallete and search hello.html
@@ -109,13 +116,6 @@ puts "Hello #{name}"
 <h1>hello world</h1>
 ```
 * `open .`
-
----
-
-# Download Treehouse Workspace
-* Click `File`, `Download Workspace`
-
-![bg right](treehouse-workspace.png)
 
 ---
 
