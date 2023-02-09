@@ -8,7 +8,11 @@ Now that we've been using ruby in gitpod and treehouse it's time to start runnin
 3. fun to start hacking your own scripts
 
 
-## Terminal Commands
+## Terminal
+open terminal
+* command + space (open spotlight search)
+* search 'terminal', press `enter`
+
 macOS is in the unix family so we have these useful commands
 * `ls` - list directory contents
 * `pwd` - print working directory
@@ -19,10 +23,16 @@ macOS is in the unix family so we have these useful commands
 * Use `man` to learn more about each command
 
 
+## Ruby
+Ruby comes preinstalled on macOS
+* `ruby`
+* `ruby --version` or `ruby -v` to check version
+This is your system ruby. This version of ruby is included in macOS for compatibility with legacy software. 
+ It's best to install different versions when developing rails applications. We'll get into this later.
+* `gem list` to see all the libraries installed with this ruby
+
+
 ## Interactive Ruby (irb)
-open terminal
-* command + space (open spotlight search)
-* search 'terminal', press `enter`
 * type in `irb`
 * play around with ruby
 * type `exit` to exit irb shell
@@ -43,6 +53,8 @@ works great with ruby, rails, and pretty much any language
 ## Create Workspace Folder
 * open terminal (command + space, search terminal)
 * create workspace for all your different projects `mkdir Workspace`
+  * be capitalize to be consistent with other folders in root
+  * generally use lowercase and no spaces
 * navigate to workspace `cd Workspace`
 * create scratch folder `mkdir scratch`
 * open scratch in vscode `code scratch`
@@ -54,11 +66,13 @@ works great with ruby, rails, and pretty much any language
   * (command + p) to open search
   * type in filename `hello.rb`
 * add code to ask for name and say hello
+
 ```ruby
 print 'What is your name? '
 name = gets.chomp
 puts "Hello #{name}"
 ```
+
 * in the terminal enter `ruby hello.rb`
 
 
@@ -68,6 +82,11 @@ puts "Hello #{name}"
 <h1>hello world</h1>
 ```
 * open in chrome
+
+
+## Download Treehouse Workspace
+https://piazza.com/class/ldj532ul5a0621/post/ldxaz2gw9ve7o7
+* Click `File`, `Download Workspace`
 
 
 ## Resources
