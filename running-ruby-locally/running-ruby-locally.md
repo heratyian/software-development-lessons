@@ -7,6 +7,13 @@ paginate: true
 # Running Ruby On Your Own Machine
 
 ---
+# TODO
+* navigate and create files using unix commands
+* setup `Workspace` and `scratch` folders
+* setup and configure your code editor (vscode)
+* write and run a ruby program on your machine
+
+---
 
 # Why?
 <!-- Now that we've been using ruby in gitpod and treehouse it's time to start running ruby on your own machine. -->
@@ -121,10 +128,11 @@ puts "Hello #{name}"
 
 # Resources
 
-## vscode Extensions
-[Ruby](https://marketplace.visualstudio.com/items?itemName=rebornix.Ruby)
-[HTML CSS Support](https://marketplace.visualstudio.com/items?itemName=ecmel.vscode-html-css)
-[GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
+## vscode
+[install vscode](https://code.visualstudio.com/)
+[Ruby Extension](https://marketplace.visualstudio.com/items?itemName=rebornix.Ruby)
+[HTML CSS Support Extension](https://marketplace.visualstudio.com/items?itemName=ecmel.vscode-html-css)
+[GitLens Extension](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
 
 
 ## Ruby Docs
