@@ -8,7 +8,7 @@ paginate: true
 
 ---
 # TODO
-* navigate and create files using unix commands
+* navigate and create files using unix commands in the terminal
 * setup `Workspace` and `scratch` folders
 * setup and configure your code editor (vscode)
 * write and run a ruby program on your machine
