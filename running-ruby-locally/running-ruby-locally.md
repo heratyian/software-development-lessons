@@ -140,3 +140,8 @@ puts "Hello #{name}"
 
 ## Unix
 [Commands Cheatsheet](https://www.alexji.com/UNIXCheatSheet.pdf)
+
+---
+
+## 1337 Hacker
+[Install multiple Ruby versions with rbenv](https://github.com/rbenv/rbenv)
