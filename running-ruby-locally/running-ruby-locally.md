@@ -7,6 +7,13 @@ paginate: true
 # Running Ruby On Your Own Machine
 
 ---
+# TODO
+* navigate and create files using unix commands in the terminal
+* setup `Workspace` and `scratch` folders
+* setup and configure your code editor (vscode)
+* write and run a ruby program on your machine
+
+---
 
 # Why?
 <!-- Now that we've been using ruby in gitpod and treehouse it's time to start running ruby on your own machine. -->
@@ -48,9 +55,9 @@ macOS is in the 'unix' family
 
 # Ruby
 Ruby comes preinstalled on macOS
-* `ruby`
 * `ruby --version` or `ruby -v` to check version
 This is your system ruby. You'll need to install different versions when developing rails applications. We'll get into this later.
+* Make sure you are using the correct version in [Ruby Docs](https://ruby-doc.org/) 
 * `gem list` to see all the libraries installed with this ruby
 
 ---
@@ -102,6 +109,13 @@ puts "Hello #{name}"
 
 ---
 
+# Download Treehouse Workspace
+* Click `File`, `Download Workspace`
+
+![bg right](treehouse-workspace.png)
+
+---
+
 # Create And Open HTML File
 * `touch hello.html`
 * `command + p` to open command pallete and search hello.html
@@ -112,19 +126,13 @@ puts "Hello #{name}"
 
 ---
 
-# Download Treehouse Workspace
-* Click `File`, `Download Workspace`
-
-![bg right](treehouse-workspace.png)
-
----
-
 # Resources
 
-## vscode Extensions
-[Ruby](https://marketplace.visualstudio.com/items?itemName=rebornix.Ruby)
-[HTML CSS Support](https://marketplace.visualstudio.com/items?itemName=ecmel.vscode-html-css)
-[GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
+## vscode
+[install vscode](https://code.visualstudio.com/)
+[Ruby Extension](https://marketplace.visualstudio.com/items?itemName=rebornix.Ruby)
+[HTML CSS Support Extension](https://marketplace.visualstudio.com/items?itemName=ecmel.vscode-html-css)
+[GitLens Extension](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
 
 
 ## Ruby Docs
@@ -132,3 +140,8 @@ puts "Hello #{name}"
 
 ## Unix
 [Commands Cheatsheet](https://www.alexji.com/UNIXCheatSheet.pdf)
+
+---
+
+## 1337 Hacker
+[Install multiple Ruby versions with rbenv](https://github.com/rbenv/rbenv)
