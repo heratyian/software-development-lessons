@@ -5,17 +5,18 @@ paginate: true
 ---
 
 # Taking Notes And Writing Like A Developer
-Markdown, Git, and GitHub
-
 Many ways to keep notes and write about code. This is how I do it.
 
 ---
 
 # TODO
-* create a `notes` directory in your `Workspace` for daily notes
-* learn how to write in markdown
-* setup git to track changes
-* store your notes in a remote repository on GitHub
+* create a `Workspace/notes` directory for daily notes
+* create a markdown file `*.md` for todays notes
+  * TIL
+  * TODOs
+  * links
+  * meeting notes
+  * timesheet / schedule
 
 ---
 
@@ -38,43 +39,49 @@ Many ways to keep notes and write about code. This is how I do it.
 # Markdown
 https://www.markdownguide.org/
 
-command + shift + v to view markdown preview in vscode
+Any file ending in `*.md` or `*.markdown`
 
-## Heading
+---
+# vscode
+automagically supports markdown
+
+`command + shift + v` to view markdown preview in vscode
+
+---
+
+# Heading
 ```
 # H1
 ## H2
 ### H3
 ```
 
-## List
+---
+
+# List
 
 ```
-- First item
-- Second item
-- Third item
+* First item
+* ~~Second item~~
+* Third item
 ```
 
-## Code
+* First item
+* ~~Second item~~
+* Third item
+
+
+---
+
+# Code
 
 ```md
 ``
 ```
-## Link
-
----
-
-git
-
-markdown
 
 using markdown in piazza when sharing code snippets
 
-easier to read
-
----
-
-# Sharing Code Snippets
+## Sharing Code Snippets
 
 Use ` for 1 liners and ``` for multi line code snippets
 
@@ -87,13 +94,16 @@ end
 ```
 
 ---
+# Link
+`[Google](https://google.com)`
 
-# Assignment
-* create a notes folder
-* add a markdown file (*.md)
-* initialize a git repository
-* push your 
-* send link to your GitHub notes repository
+[Google](https://google.com)
+
+---
+
+# Using Markdown In The Wild
+* Slack
+* Piazza
 
 ---
 
