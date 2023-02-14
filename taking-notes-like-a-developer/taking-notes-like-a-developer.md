@@ -149,6 +149,6 @@ https://www.markdownguide.org/cheat-sheet/
 
 # Resources
 
-https://en.wikipedia.org/wiki/Markdown
-https://www.markdownguide.org/cheat-sheet/
-
+[Cheatsheet](https://www.markdownguide.org/cheat-sheet/)
+[Try out markdown online](https://dillinger.io/)
+[Markdown Essentials](https://gist.github.com/raghubetina/a1b6e89e24a8c3acae6f0b63a1fd3323)
