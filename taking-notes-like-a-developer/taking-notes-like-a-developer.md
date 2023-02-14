@@ -56,6 +56,10 @@ automagically supports markdown
 ### H3
 ```
 
+# H1
+## H2
+### H3
+
 ---
 
 # List
@@ -73,19 +77,26 @@ automagically supports markdown
 
 ---
 
+# Link
+`[Google](https://google.com)`
+
+[Google](https://google.com)
+
+---
+
 # Code
 
-```md
-``
 ```
+<!-- 1 liner -->
+`<h1>Hello World</h1>`
 
-using markdown in piazza when sharing code snippets
-
-## Sharing Code Snippets
-
-Use ` for 1 liners and ``` for multi line code snippets
-
-`<h1>Header</h1>`
+<!-- multi line -->
+```ruby
+def my_method
+  puts 'Hello'
+end
+```
+`<h1>Hello World</h1>`
 
 ```ruby
 def my_method
@@ -94,16 +105,45 @@ end
 ```
 
 ---
-# Link
-`[Google](https://google.com)`
 
-[Google](https://google.com)
-
----
 
 # Using Markdown In The Wild
 * Slack
 * Piazza
+
+---
+
+```
+# time
+830-915 worked on treehouse hashes
+915-930 stand up
+930-1030 linkedin profile peer review
+
+# links
+https://www.markdownguide.org/cheat-sheet/
+
+
+# todo
+* ~~finish treehouse hashes~~
+* update linkedin profile
+* add linkedin link to my github.io page
+
+```
+---
+
+# time
+830-915 worked on treehouse hashes
+915-930 stand up
+930-1030 linkedin profile peer review
+
+# links
+https://www.markdownguide.org/cheat-sheet/
+
+# todo
+* ~~finish treehouse hashes~~
+* update linkedin profile
+* add linkedin link to my github.io page
+
 
 ---
 
