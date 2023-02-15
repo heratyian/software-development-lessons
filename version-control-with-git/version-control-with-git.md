@@ -10,9 +10,10 @@ how to track what changed, who changed it, and why
 ---
 
 # TODO
-* setup git to track changes
-  * install xcode command line tools
-* store your notes in a remote repository on GitHub
+* setup git to track changes in your `notes/` directory
+  * you will need install xcode command line tools
+* make a commit
+* push your notes to a remote repository on GitHub
 
 ---
 
@@ -76,6 +77,29 @@ ___
 
 
 ---
+# Commit Message
+
+* Commit messages help a future reader quickly understand what changed and why it changed
+
+* Please read this post on [Best Practices](https://initialcommit.com/blog/git-commit-messages-best-practices)
+
+___
+
+# Commit Message Examples
+
+## Bad
+
+`debugging`
+`I added a delete route to the accounts controller`
+`chanages`
+
+## Good
+
+`Enable logging globally`
+`Add account delete route`
+
+
+___
 
 # Push to GitHub
 
@@ -87,6 +111,12 @@ ___
 ---
 
 ![contain](github-repo.png)
+
+---
+
+# Git GUI Tools
+* I **highly** recommend using a git GUI tool
+* [Sourcetree](https://sourcetreeapp.com) and [GitHub Desktop](https://desktop.github.com/) are both great options.
 
 ---
 
