@@ -115,9 +115,9 @@ end
 
 ```
 # time
-830-915 worked on treehouse hashes
-915-930 stand up
-930-1030 linkedin profile peer review
+* 830-915 worked on treehouse hashes
+* 915-930 stand up
+* 930-1030 linkedin profile peer review
 
 # links
 https://www.markdownguide.org/cheat-sheet/
@@ -132,9 +132,9 @@ https://www.markdownguide.org/cheat-sheet/
 ---
 
 # time
-830-915 worked on treehouse hashes
-915-930 stand up
-930-1030 linkedin profile peer review
+* 830-915 worked on treehouse hashes
+* 915-930 stand up
+* 930-1030 linkedin profile peer review
 
 # links
 https://www.markdownguide.org/cheat-sheet/
