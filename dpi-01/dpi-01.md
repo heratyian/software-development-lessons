@@ -109,7 +109,7 @@ html: true
 
 # The kind of software applications that I use most frequently look like this...
 
-<video controls width="1100px">
+<video controls width="1000px">
   <source src="https://media.slid.es/videos/318017/DFU5XJsq/airbnb_2-1143.mp4" type="video/mp4">
 </video>
 
@@ -140,11 +140,12 @@ Over the next 10 years, I expect many more industries to be disrupted by softwar
 
 ---
 
-# Which software applications do you use most frequently? Let's exclude email, utilities (like the Clock), and system software (like Android, iOS, Windows, MacOS, etc).
+# Which software applications do you use most frequently?
+Excluding email, utilities (like the Clock), and system software (like Android, iOS, Windows, MacOS, etc).
 
 <!-- POLL RESPONSE -->
 <!-- Which software applications do you use most frequently? Let's exclude email, utilities (like the Clock), and system software (like Android, iOS, Windows, MacOS, etc). -->
-<iframe src="https://embed.polleverywhere.com/free_text_polls/CfUIsPrcx7bUKArWrf66G?controls=none&short_poll=true" width="1100px" height="600px"></iframe>
+<iframe src="https://pollev-embeds.com/free_text_polls/QIKKISrOR8MfTaCiODS5N/respond" width="1100px" height="600px"></iframe>
 
 ---
 
