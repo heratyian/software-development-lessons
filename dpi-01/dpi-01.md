@@ -10,8 +10,7 @@ html: true
 * Thank you embarking on this journey with us.
 * Please find and open the link to this slide deck in Canvas
 * Throughout the quarter, I'll be using a service called PollEverywhere to embed polls and activities in the slides.
-<!-- TODO: add link  -->
-* Please visit this URL now: https://pollev.com/
+* Please visit this URL now: [https://pollev.com/ianheraty201](https://pollev.com/ianheraty201)
 * If you already have an account, sign in. Otherwise it may ask you to sign up, or it may just ask you for a name. Please use something that matches your name in Canvas so we can give you credit. By "Credit", we just mean participation; **there are no wrong answers for the PollEv exercises**.
 * You should see a survey about your prior programming experience (you might need to refresh the page). Please fill out the survey. (We may run into the response limit for this first poll; don't worry, if so. You'll be able to participate in the later polls.)
 
@@ -44,42 +43,12 @@ html: true
 
 ---
 
-<!-- TODO: POLL -->
+<!-- POLL -->
 <!-- Previous Programming Experience -->
-<!-- Which of the following describes you? Select all that apply.
+<!-- Which of the following describes you? Select all that apply. -->
 
-0
-I've set up a site using Wix, Squarespace, Webflow, Shopify, or some other visual website builder
+<iframe src="https://pollev-embeds.com/surveys/AyY6lrKQEDDbuyyK2U7Sa/respond" width="1100px" height="600px"></iframe>
 
-0
-I've done some user experience
-
-0
-I've done some visual design
-
-0
-I've done some HTML & CSS (by hand)
-
-0
-I am an Excel wizard — stand back, mortal
-
-0
-I've used SQL
-
-0
-I've used R, Stata, Matlab or some other data analysis tool
-
-0
-I've used JavaScript, Python, Ruby, or some other interpreted language
-
-0
-I've used C, C++, Java, or some other compiled language
-
-0
-I've written a native iPhone or Android app
-
-0
-I've worked on the back-end of an application using Perl, PHP, Node.js, or anything else -->
 
 ---
 
@@ -131,12 +100,19 @@ I've worked on the back-end of an application using Perl, PHP, Node.js, or anyth
 
 ---
 
-<!-- TODO: POLL -->
+<!-- POLL -->
 <!-- Which software applications do you use most frequently? Let's exclude email, utilities (like the Clock), and system software (like Android, iOS, Windows, MacOS, etc). -->
+<iframe src="https://pollev-embeds.com/free_text_polls/QIKKISrOR8MfTaCiODS5N/respond" width="1100px" height="600px"></iframe>
+
 
 ---
 
-# [The kind of software applications that I use most frequently look like this...](https://media.slid.es/videos/318017/DFU5XJsq/airbnb_2-1143.mp4)
+# The kind of software applications that I use most frequently look like this...
+
+<video controls width="1100px">
+  <source src="https://media.slid.es/videos/318017/DFU5XJsq/airbnb_2-1143.mp4" type="video/mp4">
+</video>
+
 
 ---
 
@@ -166,7 +142,9 @@ Over the next 10 years, I expect many more industries to be disrupted by softwar
 
 # Which software applications do you use most frequently? Let's exclude email, utilities (like the Clock), and system software (like Android, iOS, Windows, MacOS, etc).
 
-<!-- TODO: embed poll response -->
+<!-- POLL RESPONSE -->
+<!-- Which software applications do you use most frequently? Let's exclude email, utilities (like the Clock), and system software (like Android, iOS, Windows, MacOS, etc). -->
+<iframe src="https://embed.polleverywhere.com/free_text_polls/CfUIsPrcx7bUKArWrf66G?controls=none&short_poll=true" width="1100px" height="600px"></iframe>
 
 ---
 
@@ -410,8 +388,9 @@ Some students have reported watching the videos over again at 2x speed is helpfu
 
 ---
 
-<!-- TODO: POLL -->
+<!-- POLL -->
 <!-- Questions break #1: do you have any questions about anything so far, anything at all? (Upvote questions that you also want to see answered.) -->
+<iframe src="https://pollev-embeds.com/discourses/T0jbxnp4j0k9KziZxEcEI/respond" width="1100px" height="600px"></iframe>
 
 ---
 
@@ -463,8 +442,9 @@ Some students have reported watching the videos over again at 2x speed is helpfu
 ---
 
 
-<!-- TODO: poll -->
+<!-- POLL -->
 <!-- Who was the first person whose name we know? -->
+<iframe src="https://pollev-embeds.com/free_text_polls/XsLv7lejgVt7DMRulzrJ0/respond" width="1100px" height="600px"></iframe>
 
 ---
 
@@ -489,8 +469,9 @@ Some students have reported watching the videos over again at 2x speed is helpfu
 
 ---
 
-<!-- TODO: poll -->
+<!-- POLL -->
 <!-- What was the second best-selling book (after the Bible)? -->
+<iframe src="https://pollev-embeds.com/free_text_polls/EXYv5O7qq3c5CwXU3imfk/respond" width="1100px" height="600px"></iframe>
 
 ---
 
@@ -562,22 +543,15 @@ Whatever information we need to power our applications, we need to be able to fi
 # Must See Movies
 
 * Okay, this is all pretty abstract. Let's look at some examples.
-
 * Lets examine an [application](https://msm-associations-target.herokuapp.com/) that we'll build in class. It's a very simplified version of the iMDB (the Internet Movie Database).
-
 * Click around it for a minute. Observe and identify:
-
 * How are the URLs named? What is indicated by each part of the URL?
-
 * What all information is being stored and displayed on each page?
-
 * If you had to design tables to store all of the information required to power that app, what would they be? What columns would they have? Think of questions.
-
 * Let's experiment on the whiteboard.
 
 ---
-<!-- TODO: https://firstdraft.slides.com/ianheraty/dpi-day-1#/82 -->
-
+<!-- SOURCE: https://firstdraft.slides.com/ianheraty/dpi-day-1#/82 -->
 
 # Movies
 
