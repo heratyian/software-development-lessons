@@ -10,8 +10,9 @@ html: true
 * Thank you embarking on this journey with us.
 * Please find and open the link to this slide deck in Canvas
 * Please visit this URL now: [https://pollev.com/ianheraty201](https://pollev.com/ianheraty201)
-* If you already have an account, sign in. Otherwise it may ask you to sign up, or it may just ask you for a name. Please use something that matches your name in Canvas so we can give you credit. By "Credit", we just mean participation; **there are no wrong answers for the PollEv exercises**.
-* You should see a survey about your prior programming experience (you might need to refresh the page). Please fill out the survey. (We may run into the response limit for this first poll; don't worry, if so. You'll be able to participate in the later polls.)
+* If you already have an account, sign in. Otherwise it may ask you to sign up, or it may just ask you for a name. Please use something that matches your name in Canvas so we can give you credit.
+* **There are no wrong answers for the PollEv exercises**.
+
 
 ---
 
@@ -30,7 +31,8 @@ html: true
 * We need you to ask questions.
 * Speak up whenever you feel like it, or raise your hand.
 * If you're not sure whether it's relevant to everyone, wave over a TA and ask them; they'll decide and escalate.
-* Outside of class, our rule: You're only allowed to get stuck for 15 minutes before asking a question. I'll be posted up in the collab space, Slack, Piazza.
+* Outside of class, our rule: You're only allowed to get stuck for 15 minutes before asking a question.
+* I'll be posted up in the class room, Slack, and Piazza.
 * The course is organized according to the the lock-before-key principle; sometimes until someone asks the question, I won't provide the info needed to solve an exercise.
 
 ---
@@ -45,22 +47,24 @@ html: true
 <!-- Previous Programming Experience -->
 <!-- Which of the following describes you? Select all that apply. -->
 
-<iframe src="https://pollev-embeds.com/multiple_choice_polls/aQxp4cc7UQMBB34UrnPQK/respond" width="800px" height="600px"></iframe>
+<iframe src="https://pollev-embeds.com/multiple_choice_polls/aQxp4cc7UQMBB34UrnPQK/respond" width="1100px" height="600px"></iframe>
 
 ---
 
 <!-- RESPONSE -->
 <!-- Previous Programming Experience -->
-[LINK](https://www.polleverywhere.com/multiple_choice_polls/7MvmMS844GpNhC6C432r4?preview=true&controls=none)
-<iframe src="https://embed.polleverywhere.com/multiple_choice_polls/mxIjmFpbLTGFI8PmAYlnj?controls=none&short_poll=true" width="800px" height="600px"></iframe>
+<iframe src="https://embed.polleverywhere.com/multiple_choice_polls/7MvmMS844GpNhC6C432r4?controls=none&short_poll=true" width="1100px" height="600px"></iframe>
 
 ---
 
-# Aside: the term "app"
-* There are three kinds of software: "system software" (like Windows and MacOS), "utility software" (like the system clock or clipboard), and "application software" — software that people ("users") use directly to achieve some specific goal. Examples would be a word processor or a social network.
+# the term "app"
+* There are three kinds of software:
+  * "system software" (like Windows and MacOS)
+  * "utility software" (like the system clock or clipboard)
+  * "application software" — software that people ("users") use directly to achieve some specific goal. (eg a word processor or a social network)
 * In this course, whenever you hear me say "app", what I mean is "application software".
 * Nowadays many people, when they say "app", mean a native app (something that you download from Apple's App Store or Google's Play Store and interact with through your phone's touch screen); but we'll use the term more broadly, to mean "application software", in this course.
-* Our definition of "app", application software, is independent of interface; which means that it encompasses native phone apps, native desktop apps, web apps (used within a web browser), and more. Are we all agreed so that we can just say "app"? Okay, let's move on.
+* Our definition of "app", application software, is independent of interface; which means that it encompasses native phone apps, native desktop apps, web apps (used within a web browser), and more.
 
 ---
 
@@ -135,9 +139,7 @@ Over the next 10 years, I expect many more industries to be disrupted by softwar
 
 ---
 
-# Marc, let me fix the title of your 2011 essay for you....
-
-* Rather than "Why Software Is Eating The World", consider:
+# Rather than "Why Software Is Eating The World"
   * Why Internet-Delivered Software Is Eating The World
   * Why "Cloud"-Based Software Is Eating The World
   * Why Software-As-A-Service (SaaS) Is Eating The World
@@ -145,17 +147,16 @@ Over the next 10 years, I expect many more industries to be disrupted by softwar
 ---
 
 # Which software applications do you use most frequently?
-Excluding email, utilities (like the Clock), and system software (like Android, iOS, Windows, MacOS, etc).
 
-<!-- POLL RESPONSE -->
-<!-- Which software applications do you use most frequently? Let's exclude email, utilities (like the Clock), and system software (like Android, iOS, Windows, MacOS, etc). -->
-<iframe src="https://pollev-embeds.com/free_text_polls/QIKKISrOR8MfTaCiODS5N/respond" width="1100px" height="600px"></iframe>
+<!-- RESPONSES -->
+<!-- Which software applications do you use most frequently? -->
+<iframe src="https://embed.polleverywhere.com/free_text_polls/CfUIsPrcx7bUKArWrf66G?controls=none&short_poll=true" width="1100px" height="600px"></iframe>
 
 ---
 
 # We're going to learn how to build SaaS
 
-* Not system software, nor utility software.
+* Not system software or utility software.
 * Not 3D games.
 * Not applications that are installed and run on a single device, without any communication to the outside world.
 * We're building Software-as-a-Service (or "SaaS", or "cloud-based software") that delivers useful information to users over the internet, via URLs.
@@ -258,7 +259,7 @@ In 2000, when my partner Ben Horowitz was CEO of the first cloud computing compa
 ---
 
 * I moved back to Chicago in 2016 and got an internship building port/intermodal terminal solutions at Mi-Jack. Got on the job experience writing python, .NET C#, and LOTS of technical documentation.
-* Got a job building iOS apps for Nerdery. Moved over to web development react js and .NET C# backend due to need.
+* Hired by Nerdery to build iOS apps. Moved over to web development react js and .NET C# backend due to need and willingness to learn.
 * Founded [https://biggreen.company](https://biggreen.company), [https://popping.live](https://popping.live), and [https://receipt-ai.com](https://receipt-ai.com) all with Ruby on Rails
 
 ---
@@ -329,11 +330,11 @@ In 2000, when my partner Ben Horowitz was CEO of the first cloud computing compa
 * Much like Twitter, Airbnb, NYTimes, GitHub, and thousands of other companies, we're going to borrow David's (and, by now, thousands of other contributors') code.
 * This will let us skip re-inventing tens of thousands of lines of code and many years of learning.
 * We just need to learn enough of the Ruby language to be able to navigate Ruby on Rails, the framework. ("Framework" just means "a bunch of code we're borrowing".)
-* This will be our M.O. in other areas as well. For example, we'll learn just enough of another language, CSS, to be able to use a CSS framework called Bootstrap to make our pages look professional.
+* This will be our strategy. For example, we'll learn just enough of another language, CSS, to be able to use a CSS framework called Bootstrap to make our pages look professional.
 * In general, we will stand on the shoulders of giants.
 ---
 # Play the whole game
-* The crucial piece in finally making programming "click" is learning all the skills needed to deploy an application, not just one or two. I.e., we became full-stack developers.
+* The crucial piece in finally making programming "click" is learning all the skills needed to deploy an application, not just one or two. I.e., we became **full-stack developers**.
 * Most courses or books teach you one language or skill, but then you're left wondering how that fits in with the 99 other things you need to know in order to deploy an application.
 * Making a real, functional application was motivating! It gave me a reason to continue learning — to improve it, and to make my next one.
 * It gave me practical context to learn the stuff from CS courses that previously had no meaning for me.
@@ -365,36 +366,43 @@ In 2000, when my partner Ben Horowitz was CEO of the first cloud computing compa
 
 ---
 
-How the course will work
-So, tomorrow, you should start your first assignment: "RPS HTML". (You'll learn how to set up the tools you'll need to write code, write your first website, and deploy it to the internet so that other people can see it!)
-Wednesday morning we'll do activities together to reinforce and extend your learnings.
-During lab time, I will be posted up in the collab space next door.
-Please, please walk over and ask me (and the other instructors) lots of questions as you're working through the videos, readings, and projects.
-I may look like I'm busy on my laptop but I'm not. I'm there for one purpose only: waiting for you to come ask me questions. (Can you tell I love questions?)
+# How the course will work
+* Tomorrow, you should start your first assignment: **RPS HTML**. (You'll learn how to set up the tools you'll need to write code, write your first website, and deploy it to the internet so that other people can see it!)
+* Friday morning we'll do activities together to reinforce and extend your learnings.
+* During lab time, I will be posted up in the collab space next door.
+* Please, please walk over and ask me (and the other instructors) lots of questions as you're working through the videos, readings, and projects.
+* I may look like I'm busy on my laptop but I'm not. I'm there for one purpose only: waiting for you to come ask me questions.
 
 ---
 
-How the course will work
-Canvas is our home base.
-All of your work will be under "Assignments".
-I recommend always clicking "Show by Type" (instead of the default "Show by Date").
-Most assignments are required. Optional ones will have "(Optional)" in their title.
-Try to complete all required assignments before the next class meeting, so that you are prepared for the activities we do together. Assignments will have due dates that you should try to hit.
+# How the course will work
+* Canvas is our home base.
+* All of your work will be under "Assignments".
+* I recommend always clicking "Show by Type" (instead of the default "Show by Date").
+* Most assignments are required. Optional ones will have "(Optional)" in their title.
+* Try to complete all required assignments before the next class meeting, so that you are prepared for the activities we do together. Assignments will have due dates that you should try to hit.
 
 ---
 
-How the course will work
-If you finish the required assignments, you should:
-If you're feeling shaky about the required assignments, try doing them over from scratch. It should be easier the second time. Take notes on what's still confusing so we can discuss it during class.
-If you're feeling very good about the required assignments, try the optional assignments to extend your learning.
-Try applying the concepts you've learned to your own ideas. (Best possible way to learn.) I can bounce ideas with you.
-Some students have reported watching the videos over again at 2x speed is helpful.
+# How the course will work
+* If you finish the required assignments, you should:
+  * If you're feeling shaky about the required assignments, try doing them over from scratch. It should be easier the second time. Take notes on what's still confusing so we can discuss it during class.
+  * If you're feeling very good about the required assignments, try the optional assignments to extend your learning.
+  * Try applying the concepts you've learned to your own ideas. (Best possible way to learn.) I can bounce ideas with you.
+  * Some students have reported watching the videos over again at 2x speed is helpful.
 
 ---
 
 <!-- POLL -->
-<!-- Questions break #1: do you have any questions about anything so far, anything at all? (Upvote questions that you also want to see answered.) -->
+<!-- Questions break #1: do you have any questions about anything so far, anything at all? -->
 <iframe src="https://pollev-embeds.com/discourses/T0jbxnp4j0k9KziZxEcEI/respond" width="1100px" height="600px"></iframe>
+
+---
+
+<!-- RESPONSES -->
+<!-- Questions break #1: do you have any questions about anything so far, anything at all? -->
+<iframe src="https://embed.polleverywhere.com/discourses/3P4m7BfhTFpCLvSepYK2V?controls=none&short_poll=true" width="1100px" height="600px"></iframe>
+
 
 ---
 
@@ -452,6 +460,12 @@ Some students have reported watching the videos over again at 2x speed is helpfu
 
 ---
 
+<!-- RESPONSES -->
+<!-- Who was the first person whose name we know? -->
+<iframe src="https://embed.polleverywhere.com/free_text_polls/TnRoObl1EWMEn5w9q0aC2?controls=none&short_poll=true" width="1100px" height="600px"></iframe>
+
+---
+
 # "29,086 measures barley; 37 months — Kushim"
 
 ![bg right](./kushim.jpeg)
@@ -479,9 +493,19 @@ Some students have reported watching the videos over again at 2x speed is helpfu
 
 ---
 
+<!-- RESPONSES -->
+<!-- What was the second best-selling book (after the Bible)? -->
+<iframe src="https://pollev-embeds.com/free_text_polls/EXYv5O7qq3c5CwXU3imfk/respond" width="1100px" height="600px"></iframe>
+
+---
+
 * In the 17th century, English almanacs were bestsellers, second only to the Bible
 
-* An almanac is an annual publication that includes information such as weather forecasts, farmers' planting dates, tide tables, and tabular information often arranged according to the calendar.
+* An almanac is an annual publication that includes information such as:
+   * weather forecasts
+   * farmers' planting dates
+   * tide tables
+   * tabular information often arranged according to the calendar.
 
 ---
 
@@ -518,7 +542,7 @@ A categorized list of records
 # Databases
 * A "database" is the software we use to store information. It is just a set of 2D tables; don't let the fancy name throw you. It's like a clipboard; or, an Excel workbook, where each table is one sheet.
 * However, I don't want you to think about databases as software at all. Try to think of them as just paper, like almanacs.
-Whatever information we need to power our applications, we need to be able to figure out a way to store it in 2D tables, as if we were storing them in paper tables.
+* Whatever information we need to power our applications, we need to be able to figure out a way to store it in 2D tables, as if we were storing them in paper tables.
 * And whatever logic we need to solve our users' problems with that information, we have to be able to describe how we'd do it as humans, given paper tables.
 * Computers are just faster at doing it than us, but it will be the same operations — looking up data that's relevant to a certian user, ordering things in certain way, filtering things by certain criteria, etc.
 
@@ -527,14 +551,14 @@ Whatever information we need to power our applications, we need to be able to fi
 * We (the developers) figure out the main things, or nouns, in our problem space and make a table for each.
 * We add columns to each table for each attribute of the thing we need to keep track of.
 * Our users create (or read, or update, or delete) rows.
-* We say "create, read, update, or delete" so often — these are the fundamental 4 operations that all user actions map to — that we abbreviate it to CRUD.
-* 80%+ of the functionality of most SaaS applications is CRUD. This is what we will focus on learning how to build.
+* We say "create, read, update, or delete" so often — these are the fundamental 4 operations that all user actions map to — **CRUD**.
+* 80%+ of the functionality of most SaaS applications is **CRUD**. This is what we will focus on learning how to build.
 
 ---
 
 # Caveat #1
 * Our users actions should not trigger creating tables or columns; only rows. We, the developers, will create all tables and columns up front, when we design and deploy the application.
-* Users can CRUD a million rows per second if they want to. They just can't add tables or columns.
+* Users can **CRUD** a million rows per second if they want to. They just can't add tables or columns.
 
 ---
 
