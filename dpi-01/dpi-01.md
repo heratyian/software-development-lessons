@@ -9,7 +9,6 @@ html: true
 # Welcome 😁
 * Thank you embarking on this journey with us.
 * Please find and open the link to this slide deck in Canvas
-* Throughout the quarter, I'll be using a service called PollEverywhere to embed polls and activities in the slides.
 * Please visit this URL now: [https://pollev.com/ianheraty201](https://pollev.com/ianheraty201)
 * If you already have an account, sign in. Otherwise it may ask you to sign up, or it may just ask you for a name. Please use something that matches your name in Canvas so we can give you credit. By "Credit", we just mean participation; **there are no wrong answers for the PollEv exercises**.
 * You should see a survey about your prior programming experience (you might need to refresh the page). Please fill out the survey. (We may run into the response limit for this first poll; don't worry, if so. You'll be able to participate in the later polls.)
@@ -17,7 +16,6 @@ html: true
 ---
 
 # Let's get to know each other!
-* During class, we'll have lots of group exercises and breakout rooms; and I hope you'll form study groups to work on homeworks together.
 * Please form groups of 3-4 with people sitting around you, and share:
 * Your name.
 * Where you're from and which neighborhood you live in now.
@@ -47,8 +45,14 @@ html: true
 <!-- Previous Programming Experience -->
 <!-- Which of the following describes you? Select all that apply. -->
 
-<iframe src="https://pollev-embeds.com/surveys/AyY6lrKQEDDbuyyK2U7Sa/respond" width="1100px" height="600px"></iframe>
+<iframe src="https://pollev-embeds.com/multiple_choice_polls/aQxp4cc7UQMBB34UrnPQK/respond" width="800px" height="600px"></iframe>
 
+---
+
+<!-- RESPONSE -->
+<!-- Previous Programming Experience -->
+[LINK](https://www.polleverywhere.com/multiple_choice_polls/7MvmMS844GpNhC6C432r4?preview=true&controls=none)
+<iframe src="https://embed.polleverywhere.com/multiple_choice_polls/mxIjmFpbLTGFI8PmAYlnj?controls=none&short_poll=true" width="800px" height="600px"></iframe>
 
 ---
 
@@ -332,8 +336,7 @@ In 2000, when my partner Ben Horowitz was CEO of the first cloud computing compa
 * The crucial piece in finally making programming "click" is learning all the skills needed to deploy an application, not just one or two. I.e., we became full-stack developers.
 * Most courses or books teach you one language or skill, but then you're left wondering how that fits in with the 99 other things you need to know in order to deploy an application.
 * Making a real, functional application was motivating! It gave me a reason to continue learning — to improve it, and to make my next one.
-And I was having interesting and productive conversations with my team immediately.
-* And it got me intersted to learn the stuff from my CS courses that previously had no meaning for me.
+* It gave me practical context to learn the stuff from CS courses that previously had no meaning for me.
 
 ---
 
