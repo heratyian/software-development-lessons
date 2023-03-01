@@ -76,7 +76,7 @@ html: true
 ---
 
 # What does it mean to "know how to code"?
-* There are so many different kinds of software — it's like saying you want to "learn science". Physics? Biology? Chemistry?
+* There are so many different kinds of software — it's like saying you want to "learn science".
 * I think when people say they want to learn "how to code," what they generally mean is that they want to be able to build the kind of software that they themselves use on a daily basis.
 * Naturally, this is the kind of software that they are most familiar with.
 * If they are the entrepreneurial type, if they have ideas, these are the kind of ideas they'll have and want to implement.
@@ -97,7 +97,8 @@ html: true
   * Python web scrapers?
   * Embedded C programs to run hardware devices?
 * Possibly, but for most people probably not the above (at least not directly).
-* How about Adobe Photoshop? Nintendo Switch games? Alexa Skills? * Those are a bit closer to daily life.
+* How about Adobe Photoshop? Nintendo Switch games? Alexa Skills?
+* Those are a bit closer to daily life.
 * Which apps do you use most at work or school? When you're out with friends?
 
 ---
@@ -233,15 +234,15 @@ In 2000, when my partner Ben Horowitz was CEO of the first cloud computing compa
 
 — Marc Andreesen, "Why Software Is Eating the World" (2011)
 
-* By next class, you'll know how to do this for $17/month
+* By the end of this course, you'll know how to do this for $17/month
 
 ---
 
 * There were many things coming together in the 2000s to make SaaS companies ever cheaper to build and launch — datacenters for rent, the open-source movement, modern high-level languages and frameworks.
-* It was not a coincidence that 2011 is also when the first "coding bootcamps" arose to fill the gap in developers that Computer Science departments were not addressing. They promised to teach you "how to code" in 3 or 6 months.
-* Some of the same things that brought the cost of running a SaaS product down by two orders of magnitude are also why it became possible for beginners to build useful software from online courses.
-* I heard about a few of these (Harvard CS50 / MakeSchool / Treehouse) and decided to give it a try while teaching in China.
-* It worked! Finally, I learned "how to code" — that is, I learned how to build the kind of software that I had ideas for.
+* It was not a coincidence that 2011 is also when coding bootcamps and online courses arose to fill the gap in developers that Computer Science departments were not addressing.
+* Some of the same things that brought the cost of running a SaaS product down by two orders of magnitude are also why it became possible for beginners to build useful software from coding bootcamps and online courses.
+* I heard about a few of these (Harvard CS50 / MakeSchool / Treehouse / Mobile Makers) and decided to give it a try while teaching in China.
+* It worked! Finally, I learned "how to code" — I learned how to build the kind of software I had ideas for.
 
 
 ---
@@ -328,7 +329,7 @@ In 2000, when my partner Ben Horowitz was CEO of the first cloud computing compa
 * In general, we will stand on the shoulders of giants.
 ---
 # Play the whole game
-* The crucial piece in finally making programming "click" is learning all the skills needed to deploy an application, not just one or two. I.e., we became **full-stack developers**.
+* The crucial piece in finally making programming "click" is learning all the skills needed to deploy an application, not just one or two. I.e., we become **full-stack developers**.
 * Most courses or books teach you one language or skill, but then you're left wondering how that fits in with the 99 other things you need to know in order to deploy an application.
 * Making a real, functional application was motivating! It gave me a reason to continue learning — to improve it, and to make my next one.
 * It gave me practical context to learn the stuff from CS courses that previously had no meaning for me.
@@ -337,13 +338,13 @@ In 2000, when my partner Ben Horowitz was CEO of the first cloud computing compa
 
 # Learning how to learn
 * Our real goal during these 12 weeks is not to learn Ruby, Rails, Bootstrap, or any other particular language or framework.
-* I've just discovered over the years that these are good, beginner-friendly, motivating choices for an introductory course.
+* These are good, beginner-friendly, motivating choices for an introductory course.
 * Our real goal is to learn how to learn, so that you can then go on to learn whatever interests you.
 
 ---
 
 # Learning how to learn
-* Being a software developers means being a lifelong learner.
+* Being a software developer means being a lifelong learner.
 * There are always new languages, techniques, and frameworks to stay up-to-date on.
 * Every single project involves learning new things, depending on what real-world problem you're being hired to solve.
 * We are inventors. There are no formulas to look up and apply; we have to learn about the problem and then invent solutions.
@@ -352,7 +353,8 @@ In 2000, when my partner Ben Horowitz was CEO of the first cloud computing compa
 
 # How the course will work
 * Learning how to program from lectures is really hard.
-* So many things to juggle — watching me, typing along, taking notes. * Super easy to fall behind if you get stuck on something.
+* So many things to juggle — watching me, typing along, taking notes.
+* Super easy to fall behind if you get stuck on something.
 * Instead, we'll be using a partially "flipped" format. Instead of lectures, you'll have videos that you can pause, speed up, skip back, search, and reference whenever you want.
 * During our class meetings, we'll do activities together to practice and reinforce what you learned from the videos and readings.
 * M/W/F mornings — "class meetings". All the rest of the time (M/W/F afternoons, T/Th) is "lab" (with the exception of other seminars and guest lectures).
@@ -364,7 +366,7 @@ In 2000, when my partner Ben Horowitz was CEO of the first cloud computing compa
 * Tomorrow, you should start your first assignment: **RPS HTML**. (You'll learn how to set up the tools you'll need to write code, write your first website, and deploy it to the internet so that other people can see it!)
 * Friday morning we'll do activities together to reinforce and extend your learnings.
 * During lab time, I will be posted up in the collab space next door.
-* Please, please walk over and ask me (and the other instructors) lots of questions as you're working through the videos, readings, and projects.
+* Please walk over and ask me (and the other instructors) lots of questions as you're working through the videos, readings, and projects.
 * I may look like I'm busy on my laptop but I'm not. I'm there for one purpose only: waiting for you to come ask me questions.
 
 ---
@@ -528,7 +530,7 @@ A categorized list of records
 * We keep track of this information as records in plain old tables — just like they did in almanacs in the 17th century.
 * One of the most important parts of application development is figuring out what information we need to keep track of, and a good set of tables to organize that information.
 * This is part of the process known as data modeling (or "database design" or "database architecture").
-* This is usually not taught in intro courses! But, IMO, it's the most important and most challenging part of app development.
+* This is usually not taught in intro courses! But, it's the most important and most challenging part of app development.
 * It's an art, not a science. We'll spend time every week practicing. Let's dive in!
 
 ---
