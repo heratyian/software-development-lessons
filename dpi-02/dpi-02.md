@@ -2,6 +2,7 @@
 marp: true
 title: DPI-PTTL 02 Records & Relationships
 paginate: true
+html: true
 ---
 
 # Another get-to-know-each-other

@@ -37,12 +37,6 @@ html: true
 
 ---
 
-"Questions are places in your mind where answers fit. If you haven't asked the question, the answer has nowhere to go. It hits your mind and bounces right off."
-
-— Clayton Christensen
-
----
-
 <!-- POLL -->
 <!-- Previous Programming Experience -->
 <!-- Which of the following describes you? Select all that apply. -->
