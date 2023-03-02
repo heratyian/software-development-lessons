@@ -7,3 +7,6 @@ Uses [Marp](https://github.com/marp-team/marp-cli) for generating slides from ma
 * [taking notes like a developer](./taking-notes-like-a-developer/taking-notes-like-a-developer.html)
 * [dpi-01](./dpi-01/dpi-01.html)
 * [dpi-02](./dpi-02/dpi-02.html)
+* [dpi-03-html](./dpi-03-html/index.html)
+* [dpi-04-css](./dpi-04-css/index.html)
+* [dpi-03-html](./dpi-05-asking-questions/index.html)
