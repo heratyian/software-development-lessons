@@ -29,7 +29,7 @@ html: true
 ---
 # HTML Syntax
 
-```
+```html
 <a href="https://www.wikipedia.org" target="_blank">
   <img src="/wikipedia.jpg" alt="Go to Wikipedia">
 </a>
