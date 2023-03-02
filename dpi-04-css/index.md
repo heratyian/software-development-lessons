@@ -16,19 +16,25 @@ h1 {
 }
 ```
 
-* A **selector**, `h1`
-* Followed by a **declaration block** within curly brackets `{}`
-* Each declaration is separated from the next by a semicolon `;`
-* A **declaration** is comprised of a *property* and a *value* separated by a colon `:`
-* Collectively, the **selector** and **declaration block** is one **style rule**
+A **selector**, `h1`
+
+Followed by a **declaration block** within curly brackets `{}`
+
+Each declaration is separated from the next by a semicolon `;`
+
+A **declaration** is comprised of a *property* and a *value* separated by a colon `:`
+
+Collectively, the **selector** and **declaration block** is one **style rule**
 
 ---
 
 # Selectors
 
-* Selectors are how we specify which HTML elements we want our style rule to apply to.
-* **Tag Selectors** target all elements of a particular type
-  * e.g. all `<h1>` or all `<ul>`:
+Selectors are how we specify which HTML elements we want our style rule to apply to.
+
+**Tag Selectors** target all elements of a particular type
+
+e.g. all `<h1>` or all `<ul>`:
 
 ```css
 h1 {
@@ -47,7 +53,8 @@ ul {
 ---
 
 # Selectors
-* **Tag Selectors** are usually too broad, so typically we define **Class Selectors** instead by making up a name and preceding it with a dot `.`
+
+**Tag Selectors** are usually too broad, so typically we define **Class Selectors** instead by making up a name and preceding it with a dot `.`
 
 ```css
 .company-name {
@@ -65,7 +72,7 @@ ul {
 
 # Selectors
 
-* We then apply the rules to our HTML elements using the class="" attribute:
+We then apply the rules to our HTML elements using the class="" attribute:
 
 ```html
 	
@@ -96,7 +103,8 @@ ul {
 
 ---
 # Multiple classes
-* Then, you can combine them by applying multiple classes to the same HTML element:
+
+Then, you can combine them by applying multiple classes to the same HTML element:
 
 ```html
 	
@@ -113,7 +121,8 @@ ul {
 
 ---
 # Multiple classes
-* you can still use them individually elsewhere, too, which helps maintain consistency:
+
+You can still use them individually elsewhere, too, which helps maintain consistency:
 
 ```css	
 .medium-border {
@@ -146,19 +155,21 @@ ul {
 
 # External style sheets
 
-* Technically you could write CSS right inside an HTML element using the style="" attribute:
+Technically you could write CSS right inside an HTML element using the style="" attribute:
+
 ```html
 <p style="padding: 100px;">Our mission is to...</p>
 ```
-* As we've seen, it's much more re-usable to define classes. And even better than putting those classes in a `<style>` element within the same HTML document is to put them in an external style sheet.
 
-* Create a file ending in .css and then add a `<link>` element to the HTML file to connect it:
+As we've seen, it's much more re-usable to define classes. And even better than putting those classes in a `<style>` element within the same HTML document is to put them in an external style sheet.
+
+Create a file ending in .css and then add a `<link>` element to the HTML file to connect it:
 
 ```html
 <link rel="stylesheet" href="/my_styles.css">
 ```
 
-* Now you can easily re-use your rules across all the pages in your site.
+Now you can easily re-use your rules across all the pages in your site.
 
 ---
 

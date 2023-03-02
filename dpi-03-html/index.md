@@ -74,10 +74,13 @@ html: true
 ---
 # Replit
 
-* You'll need to sign up for a [Replit](https://replit.com/) account, a cloud-based code editing environment
-* You can sign in with your GitHub account if you want.
-* Click the blue "Fork REPL" button in the top-right corner to get a workspace to play around in.
-* Read the code, modify the code, play around and make sure that you understand every single line. Ask any questions that occur to you.
+You'll need to sign up for a [Replit](https://replit.com/) account, a cloud-based code editing environment
+
+You can sign in with your GitHub account if you want.
+
+Click the blue "Fork REPL" button in the top-right corner to get a workspace to play around in.
+
+Read the code, modify the code, play around and make sure that you understand every single line. Ask any questions that occur to you.
 
 ---
 
@@ -92,9 +95,11 @@ html: true
 
 ---
 # Forms
-* There's one more essential element `<form>`.
-* We can't really do anything with forms right now, since HTML can't process input — it's a formatting language.
-* We'll learn about forms after we learn enough Ruby and Ruby on Rails to do things with user input.
+There's one more essential element `<form>`.
+
+We can't really do anything with forms right now, since HTML can't process input — it's a formatting language.
+
+We'll learn about forms after we learn enough Ruby and Ruby on Rails to do things with user input.
 
 ---
 
