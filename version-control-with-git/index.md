@@ -11,9 +11,10 @@ how to track what changed, who changed it, and why
 
 # TODO
 * setup git to track changes in your `notes/` directory
-  * you will need install xcode command line tools
+  * you will need install xcode command line tools `xcode-select --install`
 * make a commit
 * push your notes to a remote repository on GitHub
+* install [sourcetree](https://www.sourcetreeapp.com/)
 
 ---
 
