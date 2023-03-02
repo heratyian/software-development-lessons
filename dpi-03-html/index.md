@@ -1,6 +1,6 @@
 ---
 marp: true
-title: DPI 03 HTML CSS
+title: DPI 03 HTML
 paginate: true
 html: true
 ---
@@ -107,3 +107,4 @@ html: true
 
 [Mozilla Developer Network, MDN](https://developer.mozilla.org/en-US/)
 
+[DevDocs](https://devdocs.io/html/)
