@@ -32,7 +32,9 @@ Content in between, `Go to Wikipedia`
 Attributes inside the opening tag, `href=""`
 
 Collectively, we call this an **element**
+
 ---
+
 # HTML Syntax
 
 ```html
