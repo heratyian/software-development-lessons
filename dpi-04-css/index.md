@@ -7,6 +7,14 @@ html: true
 
 <!-- SOURCE https://firstdraft.slides.com/raghubetina/html-and-css-recap?token=8gU8ghvw -->
 
+# CSS (Cascading Style Sheets)
+
+A **style sheet language** used for describing presentation of a document written in a **markup language**
+
+Created by Håkon Wium Lie at CERN in Switzerland in the 90s so researchers could style documents
+
+---
+
 # CSS Syntax
 
 ```css
@@ -89,7 +97,7 @@ We then apply the rules to our HTML elements using the class="" attribute:
 
 # Multiple classes
 
-* If possible, it's a good idea to keep your class style rules modular:
+If possible, it's a good idea to keep your class style rules modular:
 
 ```css	
 .medium-border {
