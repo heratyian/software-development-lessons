@@ -9,12 +9,12 @@ html: true
 
 What information does the application need to keep track of?
 
-* Where is that information coming from?
+1. Where is that information coming from?
   * users?
   * government dataset?
   * etc.
 
-* How would I keep track of that information on paper?
+2. How would I keep track of that information on paper?
   * could I answer the "question" that each feature represents by looking through my tables?
 
 Computers can't do anything that we couldn't do by looking through paper tables
@@ -162,7 +162,7 @@ ellen@example.com    (Ellen is an admin user, so you'll notice some extra capabi
 
 # Try to design a database for Yap
 
-You can use pen and paper, a shared Google Sheet, or any other medium you prefer to write down your tables.
+Write down your **tables**.
 
 Try to think of what the main **entities** are; these are candidates for tables.
 
@@ -170,4 +170,9 @@ What **attributes** of each entity will you need to store? These are candidates 
 
 Identify any **1 to Many** or **Many to Many** relationships so that you can add any necessary foreign keys and join tables.
 
-Test your design by adding some "sample records" to your tables (a few users e.g. "alice", "bob"; a few places; a few reviews; etc) to your tables, and make sure that you can record everything required for all actions in the app.
+Test your design by adding some "sample records" to your tables
+  * a few users (e.g. "alice", "bob")
+  * a few places
+  * a few reviews, etc. 
+  
+Make sure that you can record everything required for all actions in the app.
