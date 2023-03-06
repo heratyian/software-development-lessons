@@ -15,7 +15,7 @@ What information does the application need to keep track of?
   * etc.
 
 2. How would I keep track of that information on paper?
-  * could I answer the "question" that each feature represents by looking through my tables?
+  * Can I answer the "question" that each feature represents by looking through my tables?
 
 Computers can't do anything that we couldn't do by looking through paper tables
 
