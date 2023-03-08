@@ -10,8 +10,12 @@ Many ways to keep notes and write about code. This is how I do it.
 ---
 
 # TODO
-* create a `Workspace/notes` directory for daily notes
-* create a markdown file `*.md` for todays notes
+
+create a `Workspace/notes` directory for daily notes
+
+open `notes/` folder in [vscode](https://code.visualstudio.com/)
+
+create a markdown file `*.md` for todays notes
   * TIL
   * TODOs
   * links
@@ -21,18 +25,12 @@ Many ways to keep notes and write about code. This is how I do it.
 ---
 
 # Why?
-* need a place to track your learning, links, meeting notes, schedule, todos, etc.
-* README and technical documentation are often written in markdown
-* piazza, slack, github, stack overflow and many other websites support markdown
 
----
+need a place to track your learning, links, meeting notes, schedule, todos, etc.
 
-# Notes Folder
-* create a `notes` directory in your `Workspace` for daily notes
-* `cd Workspace` navigate to Workspace directory
-* `mkdir notes` create a notes directory
-* `code notes` open notes directory in vscode
-* `touch 2023-02-10_notes.md`
+README and technical documentation are often written in markdown
+
+piazza, slack, github, stack overflow and many other websites support markdown
 
 ---
 
@@ -108,8 +106,16 @@ end
 
 
 # Using Markdown In The Wild
-* Slack
-* Piazza
+
+Slack
+
+Piazza
+
+GitHub
+
+StackOverflow
+
+and more!
 
 ---
 
