@@ -104,21 +104,6 @@ end
 
 ---
 
-
-# Using Markdown In The Wild
-
-Slack
-
-Piazza
-
-GitHub
-
-StackOverflow
-
-and more!
-
----
-
 ```
 # time
 * 830-915 worked on treehouse hashes
