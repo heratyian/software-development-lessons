@@ -39,9 +39,12 @@ Make sure you are using the correct version in [Ruby Docs](https://ruby-doc.org/
 ---
 
 ## Interactive Ruby (irb)
-* type in `irb`
-* play around with ruby
-* type `exit` to exit irb shell
+
+type in `irb`
+
+play around with ruby
+
+type `exit` to exit irb shell
 
 ---
 
