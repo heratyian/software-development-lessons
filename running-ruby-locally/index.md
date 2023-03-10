@@ -74,8 +74,8 @@ We can keep experimental ruby scripts in `scratch/`
 Create `hello.rb` file in `scratch/`
 
 Open `hello.rb` in vscode
-  * ⌘ + p to open vscode file search
-  * type in filename `hello.rb`
+  1. ⌘ + p to open vscode file search
+  2. type in filename `hello.rb`
 
 create program that asks for name and says hello
 
@@ -90,7 +90,8 @@ Enter `ruby hello.rb` in the terminal
 ---
 
 # Download Treehouse Workspace
-* Click `File`, `Download Workspace`
+
+Click `File`, `Download Workspace`
 
 ![bg right](treehouse-workspace.png)
 
