@@ -14,4 +14,5 @@ Uses [Marp](https://github.com/marp-team/marp-cli) for generating slides from ma
 7. [taking notes like a developer](./taking-notes-like-a-developer/taking-notes-like-a-developer.html)
 8. [data-modeling-very-best](./data-modeling-very-best/index.html)
 9. [running ruby locally](./running-ruby-locally/index.html)
-10. [version control with git](./version-control-with-git/index.html)
+10. [ruby foundations](./ruby-foundations/index.html)
+11. [version control with git](./version-control-with-git/index.html)
