@@ -16,3 +16,4 @@ Uses [Marp](https://github.com/marp-team/marp-cli) for generating slides from ma
 9. [running ruby locally](./running-ruby-locally/index.html)
 10. [ruby foundations](./ruby-foundations/index.html)
 11. [version control with git](./version-control-with-git/index.html)
+12. [git remote and github](./git-remote-and-github/index.html)

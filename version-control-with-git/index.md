@@ -107,22 +107,6 @@ ___
 
 ___
 
-# Push to GitHub
-
-1. Create a new 'remote' repository in GitHub
-
-2. Add remote repository to your local git
-`git remote add origin <repository_url>`
-
-3. Push your local git repository to the remove
-`git push -u origin main`
-
----
-
-![contain](github-repo.png)
-
----
-
 # Git GUI Tools
 I **highly** recommend using a git GUI tool
 
