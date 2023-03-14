@@ -15,8 +15,6 @@ how to track what changed, who changed it, and why
 (you will need install xcode command line tools `xcode-select --install`)
 
 ✅ make a commit
-✅ push your notes to a remote repository on GitHub
-✅ install [sourcetree](https://www.sourcetreeapp.com/)
 
 ---
 
@@ -40,11 +38,11 @@ how to track what changed, who changed it, and why
 
 ---
 
-![bg contain](sourcetree-working.png)
+![bg contain](./sourcetree-working.png)
 
 ---
 
-![bg contain](sourcetree-branch.png)
+![bg contain](./git-graph.png)
 
 ---
 
@@ -73,14 +71,28 @@ Type in `git init` to setup a new git repository
 
 ___
 
-# Make your first commit
+# Status
 
-Now enter `git status` to see status of this repository
+Enter `git status` to see status of this repository
 
-If you want to add everything in your `notes/`
-  1. `git add .`
-  2. `git commit -m "Initial commit"`
+---
 
+# Make a commit (cli)
+
+1. Use `git add` to stage files you want to commit
+
+    `git add .` If you want to add everything
+
+2. `git commit -m "Initial commit"`
+
+
+---
+# Make a commit (vscode)
+
+1. Open source control panel
+2. Stage changes
+3. Enter commit message
+4. Click 'Commit'
 
 ---
 # Commit Message
@@ -110,13 +122,17 @@ ___
 # Git GUI Tools
 I **highly** recommend using a git GUI tool
 
-[Sourcetree](https://sourcetreeapp.com) and [GitHub Desktop](https://desktop.github.com/) are both great options.
+vscode source control (with git graph)
+
+[Sourcetree](https://sourcetreeapp.com)
+
+[GitHub Desktop](https://desktop.github.com/)
 
 ---
 
 # Resources
 
+[git graph vscode extension](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph)
 
-[Sourcetree](https://sourcetreeapp.com)
 [git cheatsheet](https://education.github.com/git-cheat-sheet-education.pdf)
 
