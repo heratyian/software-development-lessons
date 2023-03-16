@@ -37,7 +37,7 @@ how to track what changed, who changed it, and why
 * You wish there was an easy way to see and undo your changes 🧞‍♀️
 
 ---
-
+<!-- TODO: replace with vscode source control diff -->
 ![bg contain](./sourcetree-working.png)
 
 ---
@@ -64,9 +64,11 @@ a git command that combines 2 branches into 1 branch
 
 We will be tracking changes in your `notes/` directory
 
-Open a terminal and navigate to your `notes/` directory
+1. Open a terminal and navigate to your `notes/` directory
 
-Type in `git init` to setup a new git repository
+2. Type in `git init` to setup a new git repository
+
+    This command creates a `.git/` folder that git uses to track changes
 
 
 ___
@@ -92,7 +94,9 @@ Enter `git status` to see status of this repository
 1. Open source control panel
 2. Stage changes
 3. Enter commit message
-4. Click 'Commit'
+4. Click '✓ Commit'
+
+![bg right](./vscode-commit.png)
 
 ---
 # Commit Message
@@ -127,6 +131,8 @@ vscode source control (with git graph)
 [Sourcetree](https://sourcetreeapp.com)
 
 [GitHub Desktop](https://desktop.github.com/)
+
+![bg right](./vscode-source-control.png)
 
 ---
 
