@@ -61,7 +61,7 @@ git commit -m "first commit"
 # push an existing repository from the command line
 
 ```
-git remote add origin https://github.com/heratyian/test-repo.git
+git remote add origin <your-repository-url.git>
 git branch -M main
 git push -u origin main
 ```
