@@ -20,6 +20,14 @@ see [version control with git](./version-control-with-git/index.html)
 
 
 ---
+# Scenario
+
+1. Working on a project 👨‍💻
+2. Want to go home and work on it from a different computer 🏠
+3. How can we share the latest version of your project? 🤨
+
+
+---
 
 # Create Repository on GitHub
 
@@ -39,11 +47,6 @@ see [version control with git](./version-control-with-git/index.html)
 
 <!-- https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token#using-a-personal-access-token-on-the-command-line -->
 
----
-
-# macOS Keychain
-
-
 
 ---
 
@@ -53,12 +56,12 @@ see [version control with git](./version-control-with-git/index.html)
 echo "# test-repo" >> README.md
 git init
 git add README.md
-git commit -m "first commit"
+git commit -m "Initial commit"
 ```
 
 ---
 
-# push an existing repository from the command line
+# Push an existing repository from the command line
 
 ```
 git remote add origin <your-repository-url.git>
