@@ -138,6 +138,8 @@ vscode source control (with git graph)
 
 # Resources
 
+[git lens vscode extension](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
+
 [git graph vscode extension](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph)
 
 [git cheatsheet](https://education.github.com/git-cheat-sheet-education.pdf)
