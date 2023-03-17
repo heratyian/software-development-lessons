@@ -15,8 +15,6 @@ how to track what changed, who changed it, and why
 (you will need install xcode command line tools `xcode-select --install`)
 
 ✅ make a commit
-✅ push your notes to a remote repository on GitHub
-✅ install [sourcetree](https://www.sourcetreeapp.com/)
 
 ---
 
@@ -39,12 +37,12 @@ how to track what changed, who changed it, and why
 * You wish there was an easy way to see and undo your changes 🧞‍♀️
 
 ---
-
-![bg contain](sourcetree-working.png)
+<!-- TODO: replace with vscode source control diff -->
+![bg contain](./sourcetree-working.png)
 
 ---
 
-![bg contain](sourcetree-branch.png)
+![bg contain](./git-graph.png)
 
 ---
 
@@ -66,21 +64,39 @@ a git command that combines 2 branches into 1 branch
 
 We will be tracking changes in your `notes/` directory
 
-Open a terminal and navigate to your `notes/` directory
+1. Open a terminal and navigate to your `notes/` directory
 
-Type in `git init` to setup a new git repository
+2. Type in `git init` to setup a new git repository
+
+    This command creates a `.git/` folder that git uses to track changes
 
 
 ___
 
-# Make your first commit
+# Status
 
-Now enter `git status` to see status of this repository
+Enter `git status` to see status of this repository
 
-If you want to add everything in your `notes/`
-  1. `git add .`
-  2. `git commit -m "Initial commit"`
+---
 
+# Make a commit (cli)
+
+1. Use `git add` to stage files you want to commit
+
+    `git add .` If you want to add everything
+
+2. `git commit -m "Initial commit"`
+
+
+---
+# Make a commit (vscode)
+
+1. Open source control panel
+2. Stage changes
+3. Enter commit message
+4. Click '✓ Commit'
+
+![bg right](./vscode-commit.png)
 
 ---
 # Commit Message
@@ -107,32 +123,24 @@ ___
 
 ___
 
-# Push to GitHub
-
-1. Create a new 'remote' repository in GitHub
-
-2. Add remote repository to your local git
-`git remote add origin <repository_url>`
-
-3. Push your local git repository to the remove
-`git push -u origin main`
-
----
-
-![contain](github-repo.png)
-
----
-
 # Git GUI Tools
 I **highly** recommend using a git GUI tool
 
-[Sourcetree](https://sourcetreeapp.com) and [GitHub Desktop](https://desktop.github.com/) are both great options.
+vscode source control (with git graph)
+
+[Sourcetree](https://sourcetreeapp.com)
+
+[GitHub Desktop](https://desktop.github.com/)
+
+![bg right](./vscode-source-control.png)
 
 ---
 
 # Resources
 
+[git lens vscode extension](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
 
-[Sourcetree](https://sourcetreeapp.com)
+[git graph vscode extension](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph)
+
 [git cheatsheet](https://education.github.com/git-cheat-sheet-education.pdf)
 
