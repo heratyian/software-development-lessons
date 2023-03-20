@@ -87,6 +87,10 @@ Toggle terminal panel **⌘ + j**
 
 ![bg right 95%](https://res.cloudinary.com/firstdraft/image/fetch/f_auto,q_auto:low/https://raw.githubusercontent.com/firstdraft/appdev-chapters/master/assets/new_terminal.gif)
 
+---
+# Preview
+Great for viewing markdown files
+**⌘ + shift + v**
 
 ---
 # Embedded Ruby (ERB) Tag Toggle
