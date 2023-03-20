@@ -50,6 +50,11 @@ Use `man` to learn more about command
 can pass `.` or `..` into many unix commands
 
 ---
+# Autocomplete
+
+**tab**
+
+---
 # Cursor
 
 Jump to beginning of line **ctrl + a**
