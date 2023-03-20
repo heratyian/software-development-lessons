@@ -17,4 +17,5 @@ Uses [Marp](https://github.com/marp-team/marp-cli) for generating slides from ma
 10. [ruby foundations](./ruby-foundations/index.html)
 11. [version control with git](./version-control-with-git/index.html)
 12. [using the terminal](./terminal/index.html)
-13. [git remote and github](./git-remote-and-github/index.html)
+13. [vscode shortcuts](./vscode-shortcuts/index.html)
+14. [git remote and github](./git-remote-and-github/index.html)
