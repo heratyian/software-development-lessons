@@ -7,6 +7,11 @@ paginate: true
 # Terminal
 
 ---
+# TODO
+
+1. Open terminal to play along
+
+---
 
 # Unix
 
@@ -45,29 +50,38 @@ Use `man` to learn more about command
 can pass `.` or `..` into many unix commands
 
 ---
-# Terminal Shortcuts - Cursor
+# Cursor
 
-Jump to beginning of line (ctrl + a)
+Jump to beginning of line **ctrl + a**
 
-Jump to end of line (ctrl + e)
+Jump to end of line **ctrl + e**
 
-Move cursor to mouse position (option + click)
+Move cursor to mouse position **option + click**
 
 ![bg right](./engelbart-cursor-demo.gif)
 
 ---
-# Terminal Shortcuts - History
+# History
 
-Use (↑Up) and (↓Down) arrows to scroll through command history
+Use **↑Up** and **↓Down** arrows to scroll through command history
 
-Clear terminal (⌘ + k)
+![](https://res.cloudinary.com/firstdraft/image/fetch/f_auto,q_auto:low/https://raw.githubusercontent.com/firstdraft/appdev-chapters/master/assets/previous-terminal-command.gif)
 
 ---
-# Terminal Shortcuts - Get me out of here
-Interrupt command (ctrl + c)
+# Clear
+
+Clear terminal **⌘ + k**
+
+![](https://res.cloudinary.com/firstdraft/image/fetch/f_auto,q_auto:low/https://raw.githubusercontent.com/firstdraft/appdev-chapters/master/assets/clear_terminal.gif)
+
+---
+# Get me out of here
+Interrupt command **ctrl + c**
   * useful when killing a server instance
 
-Exit [vi](https://en.wikipedia.org/wiki/Vi) interface (q) or (: + q)
+Exit [vi](https://en.wikipedia.org/wiki/Vi) interface **q** or **: + q**
+
+![](https://res.cloudinary.com/firstdraft/image/fetch/f_auto,q_auto:low/https://raw.githubusercontent.com/firstdraft/appdev-chapters/master/assets/q-to-exit.gif)
 
 
 ---
