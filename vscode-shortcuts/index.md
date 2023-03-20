@@ -49,13 +49,19 @@ find next selection **⌘ + d**
 ![bg right 95%](https://res.cloudinary.com/firstdraft/image/fetch/f_auto,q_auto:low/https://raw.githubusercontent.com/firstdraft/appdev-chapters/master/assets/select_next.gif)
 
 ---
-# Move/Duplicate Line
+# Move/Duplicate/Delete Line
 
-move line **option + ↓down** or **option + ↑up**
+1. move line
+    **option + ↓down**
+    **option + ↑up**
 
 ![bg right 95%](https://res.cloudinary.com/firstdraft/image/fetch/f_auto,q_auto:low/https://raw.githubusercontent.com/firstdraft/appdev-chapters/master/assets/move_line.gif)
 
-duplicate line **option + shift + ↓down** or **option + shift + ↑up**
+2. duplicate line
+    **option + shift + ↓down**
+    **option + shift + ↑up**
+
+3. delete line **⌘ + shift + k**
 
 ---
 # Cursors
