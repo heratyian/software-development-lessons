@@ -50,14 +50,16 @@ how to track what changed, who changed it, and why
 
 # Terms
 
-* **Repository**
+**Repository**
 tracks and saves history of changes in a git project
 
-* **Commit**
+**Commit**
 a snapshot in the repository timeline
-* **Branch**
+
+**Branch**
 an independent version of the repository
-* **Merge**
+
+**Merge**
 a git command that combines 2 branches into 1 branch
 
 ---
