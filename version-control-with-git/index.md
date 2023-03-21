@@ -16,6 +16,8 @@ how to track what changed, who changed it, and why
 
 ✅ make a commit
 
+✅ try using the source control tab with [GitLens](https://open-vsx.org/extension/eamodio/gitlens) in your GitPod workspaces
+
 ---
 
 
@@ -38,7 +40,7 @@ how to track what changed, who changed it, and why
 
 ---
 <!-- TODO: replace with vscode source control diff -->
-![bg contain](./sourcetree-working.png)
+![bg contain](./vscode-working-tree.png)
 
 ---
 
@@ -59,23 +61,37 @@ an independent version of the repository
 a git command that combines 2 branches into 1 branch
 
 ---
+# Git CLI (Command Line Interface)
 
-# Initialize a local git repository
+`git init` create an empty Git repository or reinitialize an existing one
 
-We will be tracking changes in your `notes/` directory
+`git status` see status of this repository
+
+`git log` show commit logs
+
+`git add` add file contents to the index
+
+`git commit` record changes to the repository
+
+`git branch` list, create, or delete branches
+
+`git merge` join two or more development histories together
+
+`git reset` reset current HEAD to the specified state
+
+(😰 that's a lot to remember. we can just use vscode for now 😎)
+
+---
+# Initialize a local git repository (cli)
+
+In order to track changes in your `notes/` directory
 
 1. Open a terminal and navigate to your `notes/` directory
 
 2. Type in `git init` to setup a new git repository
 
-    This command creates a `.git/` folder that git uses to track changes
+    This command creates a `.git/` folder to track changes
 
-
-___
-
-# Status
-
-Enter `git status` to see status of this repository
 
 ---
 
@@ -87,6 +103,12 @@ Enter `git status` to see status of this repository
 
 2. `git commit -m "Initial commit"`
 
+---
+# Initialize a local git repository (vscode)
+
+This creates a `.git/` folder to track changes
+
+![](./vscode-git-init.png)
 
 ---
 # Make a commit (vscode)
@@ -126,7 +148,7 @@ ___
 # Git GUI Tools
 I **highly** recommend using a git GUI tool
 
-vscode source control (with git graph)
+vscode source control with [GitLens](https://open-vsx.org/extension/eamodio/gitlens)
 
 [Sourcetree](https://sourcetreeapp.com)
 
