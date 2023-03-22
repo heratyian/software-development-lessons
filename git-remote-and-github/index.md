@@ -8,7 +8,9 @@ paginate: true
 ---
 # TODO
 
-✅ push your notes to a remote repository on GitHub
+✅ Push your notes to a remote repository on GitHub
+
+✅ Push your GitPod workspace to GitHub
 
 
 ---
