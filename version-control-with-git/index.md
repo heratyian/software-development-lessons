@@ -81,7 +81,7 @@ a git command that combines 2 branches into 1 branch
 
 `git reset` reset current HEAD to the specified state
 
-(😰 that's a lot to remember. we can just use VSCode for now 😎)
+(😅 that's a lot to remember. we can just use VSCode for now 😎)
 
 ---
 # Initialize a local git repository (CLI)
