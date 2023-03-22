@@ -10,13 +10,13 @@ how to track what changed, who changed it, and why
 ---
 
 # TODO
-✅ setup git to track changes in your `notes/` directory
+✅ Setup git to track changes in your `notes/` directory
 
 (you will need install xcode command line tools `xcode-select --install`)
 
-✅ make a commit
+✅ Make a commit
 
-✅ try using the source control tab with [GitLens](https://open-vsx.org/extension/eamodio/gitlens) extension in VSCode and GitPod workspaces
+✅ Try using the source control tab with [GitLens](https://open-vsx.org/extension/eamodio/gitlens) extension in VSCode and GitPod workspaces
 
 ---
 
@@ -39,8 +39,8 @@ how to track what changed, who changed it, and why
 * You wish there was an easy way to see and undo your changes 🧞‍♀️
 
 ---
-<!-- TODO: replace with VSCode source control diff -->
-![bg contain](./vscode-working-tree.png)
+
+![bg contain](./sourcetree-working.png)
 
 ---
 
@@ -84,7 +84,7 @@ a git command that combines 2 branches into 1 branch
 (😰 that's a lot to remember. we can just use VSCode for now 😎)
 
 ---
-# Initialize a local git repository (cli)
+# Initialize a local git repository (CLI)
 
 In order to track changes in your `notes/` directory
 
@@ -97,7 +97,7 @@ In order to track changes in your `notes/` directory
 
 ---
 
-# Make a commit (cli)
+# Make a commit (CLI)
 
 1. Use `git add` to stage files you want to commit
 
