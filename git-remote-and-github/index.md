@@ -16,9 +16,9 @@ paginate: true
 ---
 # Scenario
 
-1. Working on a project 👨‍💻
-2. Want to go home and work on it from a different computer 🏠
-3. How can we share the latest version of your project? 🤨
+* Working on a project 👨‍💻
+* Want to go home and work on it from a different computer 🏠
+* Need to access and sync with the latest version 🤨
 
 
 ---
