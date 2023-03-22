@@ -16,7 +16,7 @@ how to track what changed, who changed it, and why
 
 ✅ make a commit
 
-✅ try using the source control tab with [GitLens](https://open-vsx.org/extension/eamodio/gitlens) in your GitPod workspaces
+✅ try using the source control tab with [GitLens](https://open-vsx.org/extension/eamodio/gitlens) extension in VSCode and GitPod workspaces
 
 ---
 
