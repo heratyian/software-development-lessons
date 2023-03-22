@@ -39,7 +39,7 @@ how to track what changed, who changed it, and why
 * You wish there was an easy way to see and undo your changes 🧞‍♀️
 
 ---
-<!-- TODO: replace with vscode source control diff -->
+<!-- TODO: replace with VSCode source control diff -->
 ![bg contain](./vscode-working-tree.png)
 
 ---
@@ -81,7 +81,7 @@ a git command that combines 2 branches into 1 branch
 
 `git reset` reset current HEAD to the specified state
 
-(😰 that's a lot to remember. we can just use vscode for now 😎)
+(😰 that's a lot to remember. we can just use VSCode for now 😎)
 
 ---
 # Initialize a local git repository (cli)
@@ -106,14 +106,14 @@ In order to track changes in your `notes/` directory
 2. `git commit -m "Initial commit"`
 
 ---
-# Initialize a local git repository (vscode)
+# Initialize a local git repository (VSCode)
 
 This creates a `.git/` folder to track changes
 
 ![](./vscode-git-init.png)
 
 ---
-# Make a commit (vscode)
+# Make a commit (VSCode)
 
 1. Open source control panel
 2. Stage changes
@@ -150,7 +150,7 @@ ___
 # Git GUI Tools
 I **highly** recommend using a git GUI tool
 
-vscode source control with [GitLens](https://open-vsx.org/extension/eamodio/gitlens)
+VSCode source control with [GitLens](https://open-vsx.org/extension/eamodio/gitlens)
 
 [Sourcetree](https://sourcetreeapp.com)
 
@@ -159,12 +159,14 @@ vscode source control with [GitLens](https://open-vsx.org/extension/eamodio/gitl
 ![bg right](./vscode-source-control.png)
 
 ---
-
 # Resources
 
-[git lens vscode extension](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
+[First Draft: Using Git](https://chapters.firstdraft.com/chapters/839)
 
-[git graph vscode extension](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph)
+[First Draft: Command Line Git](https://chapters.firstdraft.com/chapters/859)
 
-[git cheatsheet](https://education.github.com/git-cheat-sheet-education.pdf)
+[GitLens VSCode extension](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
 
+[Git Cheatsheet](https://education.github.com/git-cheat-sheet-education.pdf)
+
+[First Draft: Git Aliases](https://chapters.firstdraft.com/chapters/857)
