@@ -96,13 +96,6 @@ html: true
 ---
 
 # Copy-paste
-- There is a time and a place for copy-pasting code.
-- But especially when the code wasn't written by you (or you were typing along to a video), avoid the temptation to copy-paste it.
-- It's wonderful that you are recognizing that you solved a similar problem in the past! That is a crucial skill. You should definitely refer to that code — have it open in another tab — but don't copy paste it into the new context.
-
----
-
-# Copy-paste
 - Even if it would work unmodified, you should still type it out when you're a beginner. Typing out code is essential for developing your own muscle memory.
 - With experience, you will develop intuition for when it's okay to copy-paste and when it isn't.
 - For now, when in doubt, err on the side of typing out code.
@@ -111,43 +104,74 @@ html: true
 
 # Work in tiny little steps
 - When you're solving a problem, don't try to jump all the way to the end in one go.
-- Start small. What's the first thing you can print?
 - What is a series of small steps that will get you to your goal?
-- Figuring out a series of tiny steps is the hardest (and most valuable thing) about programming.
-- After your beginner days, syntax becomes second nature. - Figuring tiny steps to get from the starting point to the solution is engineering.
+- Figuring tiny steps to get from the starting point to the solution is engineering.
 
 ---
-
-# Try pseudocode first
-- Try writing out your steps in comments
-
-
-
----
-
-# Try `debugger`
-
-
----
-
 # Make the Invisible Visible
-- Work in tiny steps.
+
+- Start small. What's the first thing you can print?
+```ruby
+puts "My var here: #{my_var}"
+```
 - Print things constantly to verify that each step did what you thought it did.
-- In the plain Ruby days we did that with the `p` method.
-- In Rails, make lots of instance variables and embed them in the view. You can delete them later.
+
+---
+# Make the Invisible Visible
+
+- Make instance variables and embed them in the view. You can delete them later.
 ```
 <%= @my_variable.inspect %>
 ```
+
+---
+# Make the Invisible Visible
+
 - If there's an error page, use the interactive console to display the contents of params, variables, and to experiment with potential solutions for the error.
 ```
 TODO: screenshot
 ```
+
+---
+
+# Make the Invisible Visible
 - Look at the server log. (Clear it often ⌘+k)
 
 ```
 TODO: screenshot
 ```
 
+---
+
+# Try pseudocode first
+- Try writing out your steps in comments
+
+```ruby
+def show
+  # get id from params
+  # use id to get record from db
+  # make record accessible using instance variable
+  # render template
+end
+```
+
+
+---
+
+# Try `debugger`
+
+- Add `debugger` anywhere in your code to stop execution and inspect variables
+    - `c` to continue
+    - `n` to execute next line
+- it even works in `html.erb` files!
+    - `<% debugger %>`
+
+---
+
+# Use [ask.firstdraft.com](https://ask.firstdraft.com)
+* It's great to have a conversation to help talk through a problem
+* Remember, AI can be totally wrong
+* It's best to not just copy paste AI output
 ---
 # "How to Solve It"
 
