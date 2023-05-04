@@ -81,7 +81,9 @@ html: true
 
 # Copy-paste
 - Copy-pasting is a double-edged sword.
-- It's great for avoiding typos when, e.g., you need to add an access token to an environment variable or get an API URL into a string.
+- It's great for avoiding typos, e.g.,
+    - access tokens
+    - URLs
 - However, when you copy-paste code from one context to another, it will not work unmodified.
 - The different context is, by definition, solving a different problem — or it wouldn't exist.
 
@@ -112,8 +114,18 @@ html: true
 - When you're solving a problem, don't try to jump all the way to the end in one go.
 - Start small. What's the first thing you can print?
 - What is a series of small steps that will get you to your goal?
-- Note: figuring this a series of tiny steps is the hardest (and most valuable thing) about programming.
+- Note: figuring out a series of tiny steps is the hardest (and most valuable thing) about programming.
 After your beginner days, syntax becomes second nature. - Figuring tiny steps to get from the starting point to the solution is engineering.
+
+---
+
+# Try pseudocode first
+
+
+---
+
+# Try `debugger`
+
 
 ---
 
@@ -122,8 +134,18 @@ After your beginner days, syntax becomes second nature. - Figuring tiny steps to
 - Print things constantly to verify that each step did what you thought it did.
 - In the plain Ruby days we did that with the `p` method.
 - In Rails, make lots of instance variables and embed them in the view. You can delete them later.
+```
+<%= @my_variable.inspect %>
+```
 - If there's an error page, use the interactive console to display the contents of params, variables, and to experiment with potential solutions for the error.
+```
+TODO: screenshot
+```
 - Look at the server log. (Clear it often ⌘+k)
+
+```
+TODO: screenshot
+```
 
 ---
 # "How to Solve It"
