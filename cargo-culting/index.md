@@ -174,6 +174,16 @@ end
     - `<% debugger %>`
 
 ---
+# Restart / Refresh
+
+- Try restarting your server or refreshing the page
+- Configuration and settings are only set on server boot
+- Your views are only reloaded when refreshing the page
+
+
+![bg right](./restart.webp)
+
+---
 
 # Use [ask.firstdraft.com](https://ask.firstdraft.com)
 * It's great to have a conversation to help talk through a problem
