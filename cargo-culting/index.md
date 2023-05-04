@@ -11,7 +11,7 @@ html: true
 
 ![bg right 95%](./melanesia.webp)
 
-<small>[image source](https://www.worldatlas.com/articles/which-countries-and-territories-make-up-melanesia.html)</small>
+[image source](https://www.worldatlas.com/articles/which-countries-and-territories-make-up-melanesia.html)
 
 
 ---
