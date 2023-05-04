@@ -128,17 +128,24 @@ puts "My var here: #{my_var}"
 # Make the Invisible Visible
 
 - If there's an error page, use the interactive console to display the contents of params, variables, and to experiment with potential solutions for the error.
-```
-TODO: screenshot
-```
+
+![bg right 95%](./error-console.png)
 
 ---
 
 # Make the Invisible Visible
-- Look at the server log. (Clear it often ⌘+k)
+- **Read** the server log. (Clear it often ⌘+k)
 
 ```
-TODO: screenshot
+Started GET "/directors" for 130.126.255.106 at 2023-05-04 21:50:42 +0000
+   (0.2ms)  SELECT sqlite_version(*)
+Processing by DirectorsController#index as HTML
+  Rendering director_templates/index.html.erb within layouts/application
+  Director Load (0.6ms)  SELECT "directors".* FROM "directors" ORDER BY "directors"."created_at" DESC
+  ↳ app/views/director_templates/index.html.erb:29
+  Rendered director_templates/index.html.erb within layouts/application (Duration: 7.6ms | Allocations: 5127)
+Completed 200 OK in 13ms (Views: 9.7ms | ActiveRecord: 1.5ms | Allocations: 7634)
+
 ```
 
 ---
@@ -172,6 +179,7 @@ end
 * It's great to have a conversation to help talk through a problem
 * Remember, AI can be totally wrong
 * It's best to not just copy paste AI output
+
 ---
 # "How to Solve It"
 
@@ -193,3 +201,7 @@ Try asking yourself (and each other) the following questions:
 - Is there enough information to enable you to find a solution?
 - Do you understand all the words used in stating the problem?
 - Do you need to ask a question to get the answer?
+
+---
+
+# Thank you
