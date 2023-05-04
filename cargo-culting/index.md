@@ -17,7 +17,6 @@ html: true
 ---
 
 # A history lesson
-- Imagine being a villager living in Melanesia, circa 1940.
 - You're living a lifestyle that has largely remained unchanged for thousands of years.
 - Fishing and gathering are primarily how you make a living. Things are tight, but generally good.
 - Sometimes there are violent clashes with neighboring tribes.
@@ -114,12 +113,14 @@ html: true
 - When you're solving a problem, don't try to jump all the way to the end in one go.
 - Start small. What's the first thing you can print?
 - What is a series of small steps that will get you to your goal?
-- Note: figuring out a series of tiny steps is the hardest (and most valuable thing) about programming.
-After your beginner days, syntax becomes second nature. - Figuring tiny steps to get from the starting point to the solution is engineering.
+- Figuring out a series of tiny steps is the hardest (and most valuable thing) about programming.
+- After your beginner days, syntax becomes second nature. - Figuring tiny steps to get from the starting point to the solution is engineering.
 
 ---
 
 # Try pseudocode first
+- Try writing out your steps in comments
+
 
 
 ---
@@ -168,4 +169,3 @@ Try asking yourself (and each other) the following questions:
 - Is there enough information to enable you to find a solution?
 - Do you understand all the words used in stating the problem?
 - Do you need to ask a question to get the answer?
-
