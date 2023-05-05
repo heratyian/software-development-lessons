@@ -7,7 +7,7 @@ html: true
 
 # A History Lesson
 
-- Imagine being a villager living in Melanesia, circa 1940.
+* Imagine being a villager living in Melanesia, circa 1940.
 
 ![bg right 95%](./melanesia.webp)
 
@@ -17,19 +17,19 @@ html: true
 ---
 
 # A history lesson
-- You're living a lifestyle that has largely remained unchanged for thousands of years.
-- Fishing and gathering are primarily how you make a living. Things are tight, but generally good.
-- Sometimes there are violent clashes with neighboring tribes.
-- Any illness or serious injury usually results in death.
+* You're living a lifestyle that has largely remained unchanged for thousands of years.
+* Fishing and gathering are primarily how you make a living. Things are tight, but generally good.
+* Sometimes there are violent clashes with neighboring tribes.
+* Any illness or serious injury usually results in death.
 
 ---
 
 # A history lesson
-- One day, something strange happens.
-- Directly above, around, and in your village, the largest war ever fought by humans takes place — World War II.
-- The most technologically advanced nations in the world start building bases on your island.
-- Soldiers arrive in planes, gliding down and landing on runways, and take up residence in the bases. But they don't fish or gather.
-- To supply these bases, planes would airdrop cargo containing food, weapons, medicine, and other supplies.
+* One day, something strange happens.
+* Directly above, around, and in your village, the largest war ever fought by humans takes place — World War II.
+* The most technologically advanced nations in the world start building bases on your island.
+* Soldiers arrive in planes, gliding down and landing on runways, and take up residence in the bases. But they don't fish or gather.
+* To supply these bases, planes would airdrop cargo containing food, weapons, medicine, and other supplies.
 
 ---
 
@@ -39,26 +39,26 @@ html: true
 ---
 
 # A history lesson
-- This cargo is unlike anything you've ever seen.
-- The food is unbelievably nutritious. One package could feed your family for a month.
-- The weapons would make your tribe invincible.
-- The medicines are miraculous life savers.
+* This cargo is unlike anything you've ever seen.
+* The food is unbelievably nutritious. One package could feed your family for a month.
+* The weapons would make your tribe invincible.
+* The medicines are miraculous life savers.
 
 ---
 
 # A history lesson
-- Then, one day, the conflict ends.
-- The soldiers abandon their bases and runways. They take their planes and leave.
-- The cargo stops being airdropped.
-- People start dying from trivial injuries again.
-- What do we need to do to get access to similarly nutritious food and effective medicine?
+* Then, one day, the conflict ends.
+* The soldiers abandon their bases and runways. They take their planes and leave.
+* The cargo stops being airdropped.
+* People start dying from trivial injuries again.
+* What do we need to do to get access to similarly nutritious food and effective medicine?
 
 ---
 
 # A history lesson
-- Well, back when the airdrops were coming, there were planes sitting by the runways.
-- Now there are no planes.
-- Maybe it's the presence of planes that causes the cargo to come?
+* Well, back when the airdrops were coming, there were planes sitting by the runways.
+* Now there are no planes.
+* Maybe it's the presence of planes that causes the cargo to come?
 
 ---
 
@@ -67,9 +67,9 @@ html: true
 ---
 
 # A history lesson
-- Believing cargo to be blessings from the gods, "cargo cults" formed.
-- They would build planes out of wood, uniforms out of straw, and perform the rituals that they had observed the soldiers performing.
-- Some of these cults lasted for decades.
+* Believing cargo to be blessings from the gods, "cargo cults" formed.
+* They would build planes out of wood, uniforms out of straw, and perform the rituals that they had observed the soldiers performing.
+* Some of these cults lasted for decades.
 
 ---
 
@@ -105,7 +105,7 @@ html: true
 # Work in tiny little steps
 - When you're solving a problem, don't try to jump all the way to the end in one go.
 - What is a series of small steps that will get you to your goal?
-- Figuring tiny steps to get from the starting point to the solution is engineering.
+- Figuring out the tiny steps to get from the starting point to the solution is engineering.
 
 ---
 # Make the Invisible Visible
@@ -157,7 +157,7 @@ Completed 200 OK in 13ms (Views: 9.7ms | ActiveRecord: 1.5ms | Allocations: 7634
 def show
   # get id from params
   # use id to get record from db
-  # make record accessible using instance variable
+  # make record accessible using instance variable '@'
   # render template
 end
 ```
@@ -170,6 +170,13 @@ end
 - Add `debugger` anywhere in your code to stop execution and inspect variables
     - `c` to continue
     - `n` to execute next line
+```ruby
+def show
+  my_id = params.fetch("id")
+  debugger
+  my_record = MyModel.where({ :id => my_id }).at(0)
+  render({ :template => "my_views/show.html.erb" })
+```
 - it even works in `html.erb` files!
     - `<% debugger %>`
 
