@@ -4,22 +4,50 @@ title: working together
 paginate: true
 ---
 
-# "Talent wins games, but teamwork and intelligence win championships."
-* Michael Jordan
+TODO: github issues
+closing keywords
 
 ---
 
+TODO: github kanban board
+
+
+---
+
+TODO agile / scrum / standups
+
+---
+
+TODO: agile pointing exercise?
+
+backlog refinement, pointing
+
+---
+https://relevant.software/blog/what-agile-software-development-team-structure-looks-like/#Typical_software_development_team_structure
+
+---
 # Typical Roles on a Software Team
 
 ## Software Developer
 * Writes code to create software applications
 
+### Specialties
+* Frontend
+* Backend
+* Mobile
+* Integrations
+* and more...
+
 ---
 
 # Typical Roles on a Software Team
 
-## DevOps Engineer
-* Deploys, monitors, and maintains the software applications and infrastructure
+## UI/UX Designer
+* Responsible for creating wireframes and prototypes, as well as helping to design the look and feel of your app.
+
+## Quality Assurance Engineer and Tester
+* Tests the software applications to ensure that they meet the requirements and are free from bugs
+
 
 ---
 
@@ -28,88 +56,27 @@ paginate: true
 ## Project Manager
 * Oversees the software development project from start to finish
 
----
-
-# Typical Roles on a Software Team
-
-## Quality Assurance Engineer
-* Tests the software applications to ensure that they meet the requirements and are free from bugs
-
-### Responsibilities
-- Integration Testing
-- User Interface (UI) Testing
-- Security Testing
-
-
----
-
-# Typical Roles on a Software Team
-
-## Data Scientist / Analyst
-* Analyzes and interprets data to gain insights that can be used to inform business decisions
-
-### Responsibilities
-- Analytics Engineering
-- Data Mining
-- Usability Testing
-
----
-
-# Typical Roles on a Software Team
-
-## Product Owner
+## Product Owner / Business Analyst
 * Defines the product vision and ensures that the software development team is building the right product
 
+---
+# Adjacent roles you might see
 
-### Responsibilities
-- User Story Creation
-- Feature Prioritization
-- Stakeholder Management
+## DevOps
+* Deploys, monitors, and maintains the software applications and infrastructure
+
+## Data Scientist
+* Analyzes and interprets data to gain insights that can be used to inform business decisions
 
 ---
 
-# Typical Roles on a Software Team
-
-## Cloud Engineer
-* Designs, implements, and maintains cloud-based infrastructure
-
-### Responsibilities
-- Deployment
-- Monitoring
-- Scaling
-
----
-
-# Typical Roles on a Software Team
-
-## Data Engineer
-* Designs and implements the data architecture for software applications
-
-### Responsibilities
-- Data Storage
-- Data Access
-- Data Security
-
----
-
-# Typical Roles on a Software Team
-
-## Solution Architect
-* Designs the overall architecture of the software applications
-
-
----
-
-# Sales, Marketing, and Business Analysis
+# Adjacent roles you might see
 
 ## Sales
 - Identifies potential customers, builds relationships with them, and sells the software product
 
 ## Marketing
 - Promotes the software product and builds brand awareness
-
-## Business Analysis
-- Understands the business needs and translates those into requirements for the software product
 
 ---
 
