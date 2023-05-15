@@ -20,6 +20,8 @@ TODO agile / scrum / standups
 
 TODO: agile pointing exercise?
 
+pointing poker
+
 backlog refinement, pointing
 
 ---
