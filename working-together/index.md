@@ -4,9 +4,8 @@ title: working together
 paginate: true
 ---
 
-"Great things in business are never done by one person. They're done by a team of people."
+# "Teamwork makes the dream work"
 
-* Steve Jobs
 ---
 
 # Issue Tracking
