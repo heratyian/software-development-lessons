@@ -4,28 +4,66 @@ title: working together
 paginate: true
 ---
 
-TODO: github issues
-closing keywords
+"Great things in business are never done by one person. They're done by a team of people."
+
+* Steve Jobs
+---
+
+# Issue Tracking
+
+![](./github-issues.png)
+
+---
+# Issue Tracking
+
+![](./github-closing-keywords.png)
+
 
 ---
 
-TODO: github kanban board
+# Effort vs Impact
 
+![](./action-priority-matrix-2.webp)
+
+---
+# Estimating Work
+https://www.pointingpoker.com/
+
+- 1 Point: a straightforward task that requires minimal implementation and integration effort.
+
+- 3 Points: involves some additional functionality, but is still relatively simple to implement.
+
+- 5 Points: involves moderate effort.
+
+- 8 Points: requires a significant amount of effort.
+
+- 13 Points: a more challenging and time-consuming task.
+
+---
+# Pointing Poker
+
+As a user, I want to be able to search for products by their name, so that I can quickly find the items I'm interested in.
 
 ---
 
-TODO agile / scrum / standups
+# Pointing Poker
+
+As a user, I want to be able to register with my email and password, so that I can create an account and access the application.
 
 ---
+# Pointing Poker
 
-TODO: agile pointing exercise?
-
-pointing poker
-
-backlog refinement, pointing
+As a user, I want to receive email notifications whenever my order status changes, so that I can stay updated on the progress of my purchases.
 
 ---
-https://relevant.software/blog/what-agile-software-development-team-structure-looks-like/#Typical_software_development_team_structure
+# Pointing Poker
+
+As a user, I want to be able to upload a profile picture, so that I can personalize my profile.
+
+---
+# Pointing Poker
+
+As a user, I want to be able to create and manage multiple shopping lists, so that I can categorize my desired items for different occasions or stores.
 
 ---
 # Typical Roles on a Software Team
@@ -80,6 +118,10 @@ https://relevant.software/blog/what-agile-software-development-team-structure-lo
 ## Marketing
 - Promotes the software product and builds brand awareness
 
+## Support
+- Assists customers with their inquiries, technical issues, and concerns
+
 ---
 
-# Thank you
+
+![bg](./placements.svg)
