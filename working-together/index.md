@@ -7,6 +7,14 @@ paginate: true
 # "Teamwork makes the dream work"
 
 ---
+# How do you decide what to work on?
+
+* Could use a simple Todo list
+* How do you know what is high priority?
+* How do you track what other people on your team are working on?
+* How do you track thinking behind product decisions?
+
+---
 
 # Issue Tracking
 
@@ -28,15 +36,15 @@ paginate: true
 # Estimating Work
 https://www.pointingpoker.com/
 
-- 1 Point: a straightforward task that requires minimal implementation and integration effort.
+- 1 Point: a straightforward task that requires minimal implementation and integration effort. (half workday)
 
-- 3 Points: involves some additional functionality, but is still relatively simple to implement.
+- 3 Points: involves some additional functionality, but is still relatively simple to implement. (1-2 workdays)
 
-- 5 Points: involves moderate effort.
+- 5 Points: involves moderate effort. (3 workdays)
 
-- 8 Points: requires a significant amount of effort.
+- 8 Points: requires a significant amount of effort. (~5 workdays)
 
-- 13 Points: a more challenging and time-consuming task.
+- 13 Points: a more challenging and time-consuming task. (~10 workdays)
 
 ---
 # Pointing Poker
@@ -63,6 +71,21 @@ As a user, I want to be able to upload a profile picture, so that I can personal
 # Pointing Poker
 
 As a user, I want to be able to create and manage multiple shopping lists, so that I can categorize my desired items for different occasions or stores.
+
+---
+# What are the most common apprentice roles?
+
+* Software Developer
+* Business Analyst
+* Data Scientist
+* Sales
+* Devops
+* Project Manager
+* Customer Support
+
+---
+
+![bg](./placements.svg)
 
 ---
 # Typical Roles on a Software Team
@@ -122,5 +145,6 @@ As a user, I want to be able to create and manage multiple shopping lists, so th
 
 ---
 
+# Thank you
 
-![bg](./placements.svg)
+
