@@ -23,6 +23,11 @@ paginate: true
 ---
 # Issue Tracking
 
+![](./github-issue.png)
+
+---
+# Issue Tracking
+
 ![](./github-closing-keywords.png)
 
 
