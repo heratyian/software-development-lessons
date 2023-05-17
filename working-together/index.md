@@ -140,13 +140,13 @@ As a user, I want to be able to create and manage multiple shopping lists, so th
 # Adjacent roles you might see
 
 ## Sales
-- Identifies potential customers, builds relationships with them, and sells the software product
+* Identifies potential customers, builds relationships with them, and sells the software product
 
 ## Marketing
-- Promotes the software product and builds brand awareness
+* Promotes the software product and builds brand awareness
 
 ## Support
-- Assists customers with their inquiries, technical issues, and concerns
+* Assists customers with their inquiries, technical issues, and concerns
 
 ---
 
