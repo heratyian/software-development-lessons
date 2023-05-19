@@ -21,3 +21,4 @@ Uses [Marp](https://github.com/marp-team/marp-cli) for generating slides from ma
 14. [git remote and github](./git-remote-and-github/index.html)
 15. [cc-debugging](./cargo-culting/index.html)
 16. [working together](./working-together/index.html)
+17. [interviewing](./interviewing/index.html)
