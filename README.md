@@ -35,12 +35,6 @@ Slides are built using [Marp](https://github.com/marp-team/marp-cli)
 
 ### Web Development with Ruby (and Rails)
 
-
-
-
-
-### 
-
 ## Slides
 
 1. [Overview](./overview/index.html)
