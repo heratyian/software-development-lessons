@@ -23,11 +23,11 @@ paginate: true
 ---
 
 # Technical Interview 🧑‍💻
-* Some companies may ask you to complete coding exercises or solve technical challenges to evaluate your knowledge in areas such as algorithms, data structures, coding, architecture, and problem-solving.
-* Some companies may ask you to complete a small take-home project to complete within a specific time frame
-* Some may have you pair up with an engineer to solve a coding problem to assess how you work as a team
-* Some may have you review a pull request or do a code review to assess how you think and communicate
-* Practice on https://leetcode.com/
+* Solve coding exercises, technical challenges, or a small take-home project to assess your knowledge of algorithms, data structures, architecture, and problem-solving.
+* Some may have you pair up with an engineer to solve a coding problem, review a pull request or do a code review to assess how you think and communicate
+* Practice:
+    - https://leetcode.com/
+    - https://exercism.org/
 
 ---
 
@@ -53,7 +53,7 @@ paginate: true
 
 # Focus on what you can control 🙌
 * Keep your resume updated and tailored to the job https://cv-boost.com
-* Work on coding problems at https://leetcode.com
+* Work on coding problems at https://leetcode.com and https://exercism.org/
 * Practice interviewing https://shadowing.ai/
 * Keep building your portfolio and sharing it with your network, most job opportunities are never even posted and come from your network
 
