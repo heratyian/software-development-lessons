@@ -47,8 +47,11 @@ feb-cohort
 * [Data Modeling Very Best](https://heratyian.github.io/software-development-lessons/data-modeling-very-best/index.html)
 * [Ruby Foundations](https://heratyian.github.io/software-development-lessons/ruby-foundations/index.html)
 * [Domain Names](../domain-names/index.md)
+* [Rubber Duck Debugging](https://www.thoughtfulcode.com/rubber-duck-debugging-psychology/)
 
-## Assignments
+
+
+### Assignments
 * [Exercism: Learn Ruby](https://exercism.org/tracks/ruby)
 * [Yet Another Ruby](../yet-another-ruby/index.md)
 * [Ruby Enrichment](../ruby-enrichment/index.md)
@@ -57,4 +60,20 @@ feb-cohort
 
 
 ## Week 4
+
+### Lectures
+* [Terminal](https://heratyian.github.io/software-development-lessons/terminal/index.html)
+* [VSCode Shortcuts](https://heratyian.github.io/software-development-lessons/vscode-shortcuts/index.html)
+* [Version Control with Git](https://heratyian.github.io/software-development-lessons/version-control-with-git/index.html)
+* [Git Remote and GitHub](https://heratyian.github.io/software-development-lessons/git-remote-and-github/index.html)
+* [Chat GPT](../ruby-enrichment/index.md)
+
+
+### Assignments
+* [Ruby on Rails: Phase 1](../ruby-on-rails/phase-1.md)
+
+### Readings / Notes
+* [Several weekends worth of AI reading](../readings/ai.md)
+
+## Week 5
 
