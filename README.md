@@ -2,7 +2,6 @@
 
 Slides are built using [Marp](https://github.com/marp-team/marp-cli)
 
-
 ## Developer Basics
 - [Asking Questions](./asking-questions/index.html)
 - [Using the Terminal](./terminal/index.html)
@@ -30,10 +29,10 @@ Slides are built using [Marp](https://github.com/marp-team/marp-cli)
 
 ### Data Modeling
 - [Records and Relationships](./records-and-relationships/index.html)
-- [Data Modeling Yap](./data-modeling-yap/index.html)
-- [Data Modeling Very Best](./data-modeling-very-best/index.html)
+- [Yap](./data-modeling/yap/index.html)
+- [Very Best](./data-modeling/very-best/index.html)
 
-### Web Development with Ruby (and Rails)
+### Web Development
 
 ## Slides
 
@@ -42,9 +41,9 @@ Slides are built using [Marp](https://github.com/marp-team/marp-cli)
 3. [HTML](./html/index.html)
 4. [CSS](./css/index.html)
 5. [Asking Questions](./asking-questions/index.html)
-6. [Data Modeling Yap](./data-modeling-yap/index.html)
+6. [Data Modeling Yap](./data-modeling/yap/index.html)
 7. [Taking Notes Like a Developer](./taking-notes-like-a-developer/index.html)
-8. [Data Modeling Very Best](./data-modeling-very-best/index.html)
+8. [Data Modeling Very Best](./data-modeling/very-best/index.html)
 9. [Running Ruby Locally](./running-ruby-locally/index.html)
 10. [Ruby Foundations](./ruby-foundations/index.html)
 11. [Version Control with Git](./version-control-with-git/index.html)
@@ -56,3 +55,7 @@ Slides are built using [Marp](https://github.com/marp-team/marp-cli)
 17. [Interviewing](./interviewing/index.html)
 
 ## Readings
+
+
+## Outlines
+- [Feb 2023](./outlines/2023-feb-12-weeks.md)
