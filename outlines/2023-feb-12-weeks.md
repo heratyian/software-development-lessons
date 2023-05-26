@@ -50,11 +50,8 @@ feb-cohort
 
 ## Assignments
 * [Exercism: Learn Ruby](https://exercism.org/tracks/ruby)
-<!-- TODO: add links -->
-* [Yet Another Ruby]()
-
-<!-- TODO: add links -->
-* [Ruby Enrichment]()
+* [Yet Another Ruby](../yet-another-ruby/index.md)
+* [Ruby Enrichment](../ruby-enrichment/index.md)
 
 ### Readings / Notes
 
