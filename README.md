@@ -58,4 +58,5 @@ Slides are built using [Marp](https://github.com/marp-team/marp-cli)
 
 
 ## Outlines
-- [2023-Feb 12-Weeks](./outlines/2023-feb-12-weeks.md)
+- [2023 Feb 12-Weeks](./outlines/2023-feb-12-weeks.md)
+- [2023 Summer Screening](./outlines/2023-summer-screening.md)
