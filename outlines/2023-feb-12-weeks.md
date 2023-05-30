@@ -33,6 +33,7 @@ feb-cohort
 * [Data Modeling Todo List](../data-modeling/todo-list.md)
 * [Running ruby locally](https://heratyian.github.io/software-development-lessons/running-ruby-locally/index.html)
 * [Asking Questions](https://firstdraft.slides.com/raghubetina/pttl-asking-questions-on-piazza)
+* [Stand Ups](../readings/stand-ups.md)
 
 ### Assignments
 * [Treehouse: Learn Ruby](https://dpi.instructure.com/courses/176/assignments/1210)
@@ -40,9 +41,6 @@ feb-cohort
 * Submit final project ideas
 
 ### Readings / Notes
-<!-- TODO: add link to slides? make it a lecture -->
-<!-- https://firstdraft.slides.com/raghubetina/daily-stand-ups?token=28IdD1V6 -->
-- Daily stand-up. Consider writing down your three things (what I worked on yesterday, what I plan to work on today, anything I'm struggling with) before you circle up. That way you've already thought about it before it's your turn to share.
 
 ## Week 3
 
