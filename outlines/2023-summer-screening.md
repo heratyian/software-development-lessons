@@ -3,6 +3,7 @@
 ## Week 1
 
 ### Lectures
+<!-- TODO: add some overview -->
 * [Asking Questions](https://heratyian.github.io/software-development-lessons/asking-questions/index.html)
 
 ### Assignments
@@ -17,6 +18,7 @@
 ## Week 2
 
 ### Lectures
+<!-- TODO: combine. help with debugging -->
 * [HTML](https://heratyian.github.io/software-development-lessons/html/index.html)
 * [CSS](https://heratyian.github.io/software-development-lessons/css/index.html)
 
@@ -29,6 +31,7 @@
 ## Week 3
 
 ### Lectures
+<!-- TODO: more readings / support on ruby? -->
 * [Ruby Foundations](https://heratyian.github.io/software-development-lessons/ruby-foundations/index.html)
 
 ### Assignments
@@ -40,6 +43,8 @@
 ## Week 4
 
 ### Lectures
+<!-- TODO: maybe some intro to using APIs, assessment on implementation -->
+<!-- TODO: maybe focus more on ruby basics? -->
 * ???
 
 ### Assignments
