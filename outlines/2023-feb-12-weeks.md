@@ -4,8 +4,8 @@ February 2023
 ## Week 1
 
 ### Lectures
-* [overview](https://heratyian.github.io/software-development-lessons/overview/index.html)
-* [records & relationships](https://heratyian.github.io/software-development-lessons/records-and-relationships/index.html)
+* [Overview](https://heratyian.github.io/software-development-lessons/overview/index.html)
+* [Records & Relationships](https://heratyian.github.io/software-development-lessons/records-and-relationships/index.html)
 * [HTML](https://heratyian.github.io/software-development-lessons/html/index.html)
 * [CSS](https://heratyian.github.io/software-development-lessons/css/index.html)
 * [Asking Questions](https://heratyian.github.io/software-development-lessons/asking-questions/index.html)
@@ -19,7 +19,7 @@ February 2023
 * [Create your TIL Blog](../readings/til-blog.md)
 
 ### Readings
-* [how to get startup ideas](http://paulgraham.com/startupideas.html)
+* [How to get startup ideas](http://paulgraham.com/startupideas.html)
 
 
 ## Week 2
