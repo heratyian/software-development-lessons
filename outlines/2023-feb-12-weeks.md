@@ -18,10 +18,8 @@ feb-cohort
 * [Sign up for GitHub](../readings/signup-for-github.md)
 * [Create your TIL Blog](../readings/til-blog.md)
 
-### Final Project
-* [how to get startup ideas](http://paulgraham.com/startupideas.html)
-
 ### Readings / Notes
+* [how to get startup ideas](http://paulgraham.com/startupideas.html)
 
 
 ## Week 2
