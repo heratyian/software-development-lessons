@@ -50,5 +50,6 @@
 ### Assignments
 <!-- TODO: Maybe something with APIs? -->
 * [Ruby Gym](https://github.com/appdev-projects/ruby-gym)
+
 ### Readings
 * ???
