@@ -1,5 +1,5 @@
 # 12-week course
-feb-cohort
+February 2023
 
 ## Week 1
 
@@ -38,8 +38,6 @@ feb-cohort
 * [Codecademy: Learn Ruby](https://www.codecademy.com/learn/learn-ruby)
 * Submit final project ideas
 
-### Readings
-
 ## Week 3
 
 ### Lectures
@@ -48,15 +46,10 @@ feb-cohort
 * [Domain Names](../domain-names/index.md)
 * [Rubber Duck Debugging](https://www.thoughtfulcode.com/rubber-duck-debugging-psychology/)
 
-
-
 ### Assignments
 * [Exercism: Learn Ruby](https://exercism.org/tracks/ruby)
 * [Yet Another Ruby](../yet-another-ruby/index.md)
 * [Ruby Enrichment](../ruby-enrichment/index.md)
-
-### Readings
-
 
 ## Week 4
 
@@ -67,12 +60,8 @@ feb-cohort
 * [Git Remote and GitHub](https://heratyian.github.io/software-development-lessons/git-remote-and-github/index.html)
 * [Chat GPT](../ruby-enrichment/index.md)
 
-
 ### Assignments
 * [Ruby on Rails: Phase 1](../ruby-on-rails/phase-1.md)
-
-### Readings
-
 
 ## Week 5
 
@@ -80,8 +69,6 @@ feb-cohort
 * [Umbrella (Intro to APIs)](../ruby-enrichment/index.md)
 * [QR Code Generator 1](../ruby-enrichment/index.md)
 * [RPS RCAV](../ruby-on-rails/phase-1.md)
-
-### Assignments
 
 ### Readings
 * [Setup a password manager](../readings/password.md)
@@ -92,20 +79,11 @@ feb-cohort
 * [Planning and Diagramming Your Idea](../data-modeling/planning-diagramming-idea.md)
 * [ActiveRecord queries and associations (deep dive in MSM Queries)](../ruby-on-rails/phase-1.md)
 
-### Assignments
-
-
-### Readings
-
-
 ## Week 7
 
 ### Lectures
 * [AI Intro](https://firstdraft.slides.com/raghubetina/ai-intro-546b32)
 * [Chat GPT Challenge](../ruby-enrichment/index.md)
-
-### Assignments
-
 
 ### Readings
 * [Several weekends worth of AI reading](../readings/ai.md)
@@ -120,9 +98,6 @@ feb-cohort
 ### Assignments
 * [Ruby on Rails: Phase 2](../ruby-on-rails/phase-2.md)
 
-
-### Readings
-
 ## Week 9
 
 ### Lectures
@@ -131,10 +106,6 @@ feb-cohort
 
 <!-- TODO: slides -->
 * [Freelance Project Screening]()
-
-### Assignments
-
-### Readings
 
 ## Week 10
 
@@ -147,11 +118,6 @@ feb-cohort
 
 * [Cargo Culting & Debugging](https://heratyian.github.io/software-development-lessons/cargo-culting/index.html)
 
-### Assignments
-
-### Readings
-
-
 ## Week 11
 
 ### Lectures
@@ -159,18 +125,9 @@ feb-cohort
 * [Sorting, searching, and pagination](../ruby-on-rails/sorting-searching-pagination.md)
 * [Images](../ruby-on-rails/images.md)
 
-### Assignments
-
-### Readings
-
 ## Week 12
 
 ### Lectures
 * [Deploying your app with render](https://gist.github.com/heratyian/706d70d1e5aee64f2dd40ea0664f730e)
 * [Working together](https://heratyian.github.io/software-development-lessons/working-together/index.html)
 * [Interviewing for software jobs](https://heratyian.github.io/software-development-lessons/interviewing/index.html)
-
-### Assignments
-
-### Readings
-
