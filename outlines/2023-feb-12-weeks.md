@@ -73,7 +73,126 @@ feb-cohort
 * [Ruby on Rails: Phase 1](../ruby-on-rails/phase-1.md)
 
 ### Readings / Notes
-* [Several weekends worth of AI reading](../readings/ai.md)
+
 
 ## Week 5
+
+### Lectures
+* [Umbrella (Intro to APIs)](../ruby-enrichment/index.md)
+* [QR Code Generator 1](../ruby-enrichment/index.md)
+* [RPS RCAV](../ruby-on-rails/phase-1.md)
+
+### Assignments
+
+### Readings / Notes
+* [Setup a password manager](../readings/password.md)
+
+## Week 6
+
+### Lectures
+* [ActiveRecord queries and associations (deep dive in MSM Queries)](../ruby-on-rails/phase-1.md)
+
+### Assignments
+
+
+### Readings / Notes
+
+
+## Week 7
+
+### Lectures
+<!-- TODO: get notes -->
+* [AI Intro](https://firstdraft.slides.com/raghubetina/ai-intro-546b32)
+* [Chat GPT Challenge](../ruby-enrichment/index.md)
+
+### Assignments
+
+
+### Readings / Notes
+* [Several weekends worth of AI reading](../readings/ai.md)
+
+## Week 8
+
+### Lectures
+* [Data Model: Offer Right](../data-modeling/offer-right/index.md)
+* [Deploying your app with Render](https://gist.github.com/heratyian/706d70d1e5aee64f2dd40ea0664f730e)
+* [Bootstrap](https://github.com/appdev-projects/bootstrap-levels-2)
+
+### Assignments
+
+
+### Readings / Notes
+
+## Week 9
+
+### Lectures
+* [Working together on GitHub (branching, merging, and pull requests)](../version-control/working-together-on-github.md)
+* [Creating a new Rails app from scratch](https://github.com/firstdraft/appdev-lessons/blob/main/lessons/codespace-setup-lesson.md#starting-a-rails-project-from-scratch)
+
+<!-- TODO: slides -->
+* [Freelance Project Screening]()
+
+### Assignments
+
+### Readings / Notes
+
+## Week 10
+
+### Lectures
+<!-- See readings -->
+* [Rails Generators and Migrations]()
+
+<!-- TODO: copy from canvas -->
+* [Guidelines & Tips for Showcase]()
+
+* [Cargo Culting & Debugging](https://heratyian.github.io/software-development-lessons/cargo-culting/index.html)
+
+### Assignments
+
+### Readings / Notes
+* [draft:resource generator](https://chapters.firstdraft.com/chapters/773)
+* [draft:account generator](https://chapters.firstdraft.com/chapters/888)
+* [A better Application Layout file](https://chapters.firstdraft.com/chapters/889)
+* [Adding or removing columns from your table](https://chapters.firstdraft.com/chapters/770#adding-or-removing-columns-from-your-table)
+
+
+## Week 11
+
+### Lectures
+<!-- See readings -->
+* [Adding Sample Data]()
+* [Sorting, searching, and pagination]()
+* [Images]()
+
+### Assignments
+
+### Readings / Notes
+#### Adding sample data
+* [Adding a sample_data rake task](https://chapters.firstdraft.com/chapters/852)
+* [Loading data from a CSV file into your database](https://chapters.firstdraft.com/chapters/791)
+* [What is the function of the seeds.rb file?](https://stackoverflow.com/questions/13789143/what-is-the-function-of-the-seeds-rb-file)
+* [Priming the pump](https://thoughtbot.com/blog/priming-the-pump)
+
+#### Sorting searching and pagination
+* [Add searching with Ransack](https://chapters.firstdraft.com/chapters/835)
+* [Add pagination with Kaminari](https://github.com/kaminari/kaminari)
+* [Reddit clone example](https://github.com/appdev-projects/ransack-kaminari/tree/ransack-kaminari)
+* [Lecture code](https://github.com/appdev-projects/ransack-kaminari/tree/lecture-may-10)
+
+#### Images
+* [Image Uploads Cheatsheet](https://chapters.firstdraft.com/chapters/790)
+* [http.cat](https://http.cat/)
+* [LoremFlickr](https://loremflickr.com/)
+* [cat cat cat example from lecture](https://github.com/heratyian-dpi-appdev/cat-cat-cat/)
+
+## Week 12
+
+### Lectures
+* [Deploying your app with render](https://gist.github.com/heratyian/706d70d1e5aee64f2dd40ea0664f730e)
+* [Working together](https://heratyian.github.io/software-development-lessons/working-together/index.html)
+* [Interviewing for software jobs](https://heratyian.github.io/software-development-lessons/interviewing/index.html)
+
+### Assignments
+
+### Readings / Notes
 
