@@ -14,6 +14,9 @@ feb-cohort
 * [RPS HTML](https://github.com/appdev-projects/rps-html)
 * [RPS CSS](https://github.com/appdev-projects/rps-css)
 * [Link in Bio](https://chapters.firstdraft.com/chapters/886)
+* [Sign up for Piazza](../readings/signup-for-piazza.md)
+* [Sign up for GitHub](../readings/signup-for-github.md)
+* [Create your TIL Blog](../readings/til-blog.md)
 
 ### Final Project
 * [how to get startup ideas](http://paulgraham.com/startupideas.html)
@@ -119,6 +122,7 @@ feb-cohort
 * [Bootstrap](https://github.com/appdev-projects/bootstrap-levels-2)
 
 ### Assignments
+* [Ruby on Rails: Phase 2](../ruby-on-rails/phase-2.md)
 
 
 ### Readings / Notes
