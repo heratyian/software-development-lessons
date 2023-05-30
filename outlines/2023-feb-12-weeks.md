@@ -93,6 +93,7 @@ feb-cohort
 ## Week 6
 
 ### Lectures
+* [Planning and Diagramming Your Idea](../data-modeling/planning-diagramming-idea.md)
 * [ActiveRecord queries and associations (deep dive in MSM Queries)](../ruby-on-rails/phase-1.md)
 
 ### Assignments
@@ -104,7 +105,6 @@ feb-cohort
 ## Week 7
 
 ### Lectures
-<!-- TODO: get notes -->
 * [AI Intro](https://firstdraft.slides.com/raghubetina/ai-intro-546b32)
 * [Chat GPT Challenge](../ruby-enrichment/index.md)
 
