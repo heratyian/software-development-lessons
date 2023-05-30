@@ -140,7 +140,7 @@ feb-cohort
 
 ### Lectures
 <!-- See readings -->
-* [Rails Generators and Migrations]()
+* [Rails Generators and Migrations](../ruby-on-rails/generators-and-migrations.md)
 
 <!-- TODO: copy from canvas -->
 * [Guidelines & Tips for Showcase]()
@@ -150,40 +150,18 @@ feb-cohort
 ### Assignments
 
 ### Readings / Notes
-* [draft:resource generator](https://chapters.firstdraft.com/chapters/773)
-* [draft:account generator](https://chapters.firstdraft.com/chapters/888)
-* [A better Application Layout file](https://chapters.firstdraft.com/chapters/889)
-* [Adding or removing columns from your table](https://chapters.firstdraft.com/chapters/770#adding-or-removing-columns-from-your-table)
 
 
 ## Week 11
 
 ### Lectures
-<!-- See readings -->
-* [Adding Sample Data]()
-* [Sorting, searching, and pagination]()
-* [Images]()
+* [Adding Sample Data](../ruby-on-rails/adding-sample-data.md)
+* [Sorting, searching, and pagination](../ruby-on-rails/sorting-searching-pagination.md)
+* [Images](../ruby-on-rails/images.md)
 
 ### Assignments
 
 ### Readings / Notes
-#### Adding sample data
-* [Adding a sample_data rake task](https://chapters.firstdraft.com/chapters/852)
-* [Loading data from a CSV file into your database](https://chapters.firstdraft.com/chapters/791)
-* [What is the function of the seeds.rb file?](https://stackoverflow.com/questions/13789143/what-is-the-function-of-the-seeds-rb-file)
-* [Priming the pump](https://thoughtbot.com/blog/priming-the-pump)
-
-#### Sorting searching and pagination
-* [Add searching with Ransack](https://chapters.firstdraft.com/chapters/835)
-* [Add pagination with Kaminari](https://github.com/kaminari/kaminari)
-* [Reddit clone example](https://github.com/appdev-projects/ransack-kaminari/tree/ransack-kaminari)
-* [Lecture code](https://github.com/appdev-projects/ransack-kaminari/tree/lecture-may-10)
-
-#### Images
-* [Image Uploads Cheatsheet](https://chapters.firstdraft.com/chapters/790)
-* [http.cat](https://http.cat/)
-* [LoremFlickr](https://loremflickr.com/)
-* [cat cat cat example from lecture](https://github.com/heratyian-dpi-appdev/cat-cat-cat/)
 
 ## Week 12
 
