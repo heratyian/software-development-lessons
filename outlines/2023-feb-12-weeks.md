@@ -18,7 +18,7 @@ feb-cohort
 * [Sign up for GitHub](../readings/signup-for-github.md)
 * [Create your TIL Blog](../readings/til-blog.md)
 
-### Readings / Notes
+### Readings
 * [how to get startup ideas](http://paulgraham.com/startupideas.html)
 
 
@@ -38,7 +38,7 @@ feb-cohort
 * [Codecademy: Learn Ruby](https://www.codecademy.com/learn/learn-ruby)
 * Submit final project ideas
 
-### Readings / Notes
+### Readings
 
 ## Week 3
 
@@ -55,7 +55,7 @@ feb-cohort
 * [Yet Another Ruby](../yet-another-ruby/index.md)
 * [Ruby Enrichment](../ruby-enrichment/index.md)
 
-### Readings / Notes
+### Readings
 
 
 ## Week 4
@@ -71,7 +71,7 @@ feb-cohort
 ### Assignments
 * [Ruby on Rails: Phase 1](../ruby-on-rails/phase-1.md)
 
-### Readings / Notes
+### Readings
 
 
 ## Week 5
@@ -83,7 +83,7 @@ feb-cohort
 
 ### Assignments
 
-### Readings / Notes
+### Readings
 * [Setup a password manager](../readings/password.md)
 
 ## Week 6
@@ -95,7 +95,7 @@ feb-cohort
 ### Assignments
 
 
-### Readings / Notes
+### Readings
 
 
 ## Week 7
@@ -107,7 +107,7 @@ feb-cohort
 ### Assignments
 
 
-### Readings / Notes
+### Readings
 * [Several weekends worth of AI reading](../readings/ai.md)
 
 ## Week 8
@@ -121,7 +121,7 @@ feb-cohort
 * [Ruby on Rails: Phase 2](../ruby-on-rails/phase-2.md)
 
 
-### Readings / Notes
+### Readings
 
 ## Week 9
 
@@ -134,7 +134,7 @@ feb-cohort
 
 ### Assignments
 
-### Readings / Notes
+### Readings
 
 ## Week 10
 
@@ -149,7 +149,7 @@ feb-cohort
 
 ### Assignments
 
-### Readings / Notes
+### Readings
 
 
 ## Week 11
@@ -161,7 +161,7 @@ feb-cohort
 
 ### Assignments
 
-### Readings / Notes
+### Readings
 
 ## Week 12
 
@@ -172,5 +172,5 @@ feb-cohort
 
 ### Assignments
 
-### Readings / Notes
+### Readings
 
