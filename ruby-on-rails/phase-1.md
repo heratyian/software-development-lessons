@@ -129,7 +129,8 @@ Attempt to complete it under circumstances similar to the real exam: you can (an
 
 If you're well and truly stuck, then get help (from an instructor, ideally). Once you've completed this project, filled in gaps in your notes, and feel ready for the real exam, ask an instructor to unlock it for you.
 
-## [165: Delivery Tracker 1 (Phase 1 exam)](https://github.com/appdev-projects/delivery-tracker-1)
+## 165: Delivery Tracker 1 (Phase 1 exam)
+<!-- https://github.com/appdev-projects/delivery-tracker-1 -->
 
 This is the exam.
 
