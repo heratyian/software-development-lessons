@@ -147,7 +147,7 @@ feb-cohort
 * [Rails Generators and Migrations](../ruby-on-rails/generators-and-migrations.md)
 
 <!-- TODO: copy from canvas -->
-* [Guidelines & Tips for Showcase]()
+* [Guidelines & Tips for Showcase](../showcase/index.md)
 
 * [Cargo Culting & Debugging](https://heratyian.github.io/software-development-lessons/cargo-culting/index.html)
 
