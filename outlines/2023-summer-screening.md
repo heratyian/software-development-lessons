@@ -4,13 +4,13 @@
 
 ### Lectures
 <!-- TODO: add some overview -->
-* [Asking Questions](https://heratyian.github.io/software-development-lessons/asking-questions/index.html)
+* [Asking Questions](https://heratyian.github.io/software-development-lessons/asking-questions/index)
 
 ### Assignments
 * [RPS HTML](https://github.com/appdev-projects/rps-html)
 * [RPS CSS](https://github.com/appdev-projects/rps-css)
-* [Sign up for Piazza](../readings/signup-for-piazza.md)
-* [Sign up for GitHub](../readings/signup-for-github.md)
+* [Sign up for Piazza](../readings/signup-for-piazza)
+* [Sign up for GitHub](../readings/signup-for-github)
 
 ### Readings
 * ???
@@ -19,8 +19,8 @@
 
 ### Lectures
 <!-- TODO: combine. help with debugging -->
-* [HTML](https://heratyian.github.io/software-development-lessons/html/index.html)
-* [CSS](https://heratyian.github.io/software-development-lessons/css/index.html)
+* [HTML](https://heratyian.github.io/software-development-lessons/html/index)
+* [CSS](https://heratyian.github.io/software-development-lessons/css/index)
 
 ### Assignments
 * [Link in Bio](https://chapters.firstdraft.com/chapters/886)
@@ -32,10 +32,10 @@
 
 ### Lectures
 <!-- TODO: more readings / support on ruby? -->
-* [Ruby Foundations](https://heratyian.github.io/software-development-lessons/ruby-foundations/index.html)
+* [Ruby Foundations](https://heratyian.github.io/software-development-lessons/ruby-foundations/index)
 
 ### Assignments
-* [Yet Another Ruby](../yet-another-ruby/index.md)
+* [Yet Another Ruby](../yet-another-ruby/index)
 
 ### Readings
 * ???
