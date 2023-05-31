@@ -113,10 +113,8 @@ February 2023
 ### Lectures
 <!-- See readings -->
 * [Rails Generators and Migrations](../ruby-on-rails/generators-and-migrations)
-
 <!-- TODO: copy from canvas -->
 * [Guidelines & Tips for Showcase](../showcase/index)
-
 * [Cargo Culting & Debugging](https://heratyian.github.io/software-development-lessons/cargo-culting/index)
 
 ## Week 11
