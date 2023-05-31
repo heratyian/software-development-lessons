@@ -15,11 +15,6 @@ Slides are built using [Marp](https://github.com/marp-team/marp-cli)
 - [Version Control with Git](./version-control-with-git/index)
 - [Git Remote and GitHub](./git-remote-and-github/index)
 
-### HTML
-- [Slides](./html/index)
-
-### CSS
-- [Slides](./css/index)
 
 ### Ruby
 - [Running Ruby Locally](./running-ruby-locally/index)
@@ -31,8 +26,6 @@ Slides are built using [Marp](https://github.com/marp-team/marp-cli)
 - [Records and Relationships](./records-and-relationships/index)
 - [Yap](./data-modeling/yap/index)
 - [Very Best](./data-modeling/very-best/index)
-
-### Web Development
 
 ## Slides
 
@@ -57,6 +50,6 @@ Slides are built using [Marp](https://github.com/marp-team/marp-cli)
 ## Readings
 
 
-## Outlines
-- [2023 Feb 12-Weeks](./outlines/2023-feb-12-weeks)
-- [2023 Summer Screening](./outlines/2023-summer-screening)
+## Syllabi
+- [2023 Feb 12-Weeks](./syllabi/2023-feb-12-weeks)
+- [2023 Summer Screening](./syllabi/2023-summer-screening)

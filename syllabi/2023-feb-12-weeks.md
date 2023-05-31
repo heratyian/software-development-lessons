@@ -4,22 +4,22 @@ February 2023
 ## Week 1
 
 ### Lectures
-* [Overview](https://heratyian.github.io/software-development-lessons/overview/index)
-* [Records & Relationships](https://heratyian.github.io/software-development-lessons/records-and-relationships/index)
-* [HTML](https://heratyian.github.io/software-development-lessons/html/index)
-* [CSS](https://heratyian.github.io/software-development-lessons/css/index)
-* [Asking Questions](https://heratyian.github.io/software-development-lessons/asking-questions/index)
+* [Overview](../slides/overview/index)
+* [Records & Relationships](../slides/records-and-relationships/index)
+* [HTML](../slides/html/index)
+* [CSS](../slides/css/index)
+* [Asking Questions](../slides/asking-questions/index)
 
 ### Assignments
-* [RPS HTML](https://github.com/appdev-projects/rps-html)
-* [RPS CSS](https://github.com/appdev-projects/rps-css)
-* [Link in Bio](https://chapters.firstdraft.com/chapters/886)
-* [Sign up for Piazza](../readings/signup-for-piazza)
-* [Sign up for GitHub](../readings/signup-for-github)
-* [Create your TIL Blog](../readings/til-blog)
+* [RPS HTML](../assignments/rps-html)
+* [RPS CSS](../assignments/rps-css)
+* [Link in Bio](../assignments/link-in-bio)
+* [Sign up for Piazza](../assignments/signup-for-piazza/index)
+* [Sign up for GitHub](../assignments/signup-for-github/index)
+* [Create your TIL Blog](../assignments/til-blog)
 
 ### Readings
-* [How to get startup ideas](http://paulgraham.com/startupideas)
+* [How to get startup ideas](../readings/how-to-get-startup-ideas.md)
 
 
 ## Week 2
