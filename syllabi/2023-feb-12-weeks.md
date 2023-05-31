@@ -49,7 +49,7 @@ February 2023
 
 ### Assignments
 * [Exercism: Learn Ruby](../assignments/exercism-learn-ruby.md)
-* [Yet Another Ruby](../assignments/yet-another-ruby/index)
+* [Yet Another Ruby](../assignments/yet-another-ruby)
 * [Ruby Enrichment](../assignments/ruby-enrichment)
 
 ### Readings
@@ -58,21 +58,21 @@ February 2023
 ## Week 4
 
 ### Lectures
-* [Terminal](https://heratyian.github.io/software-development-lessons/terminal/index)
-* [VSCode Shortcuts](https://heratyian.github.io/software-development-lessons/vscode-shortcuts/index)
-* [Version Control with Git](https://heratyian.github.io/software-development-lessons/version-control-with-git/index)
-* [Git Remote and GitHub](https://heratyian.github.io/software-development-lessons/git-remote-and-github/index)
-* [Chat GPT](../ruby-enrichment/index)
+* [Terminal](../slides/terminal/index)
+* [VSCode Shortcuts](../slides/vscode-shortcuts/index)
+* [Version Control with Git](../slides/version-control-with-git/index)
+* [Git Remote and GitHub](../slides/git-remote-and-github/index)
+* [Chat GPT](../assignments/ruby-enrichment)
 
 ### Assignments
-* [Ruby on Rails: Phase 1](../ruby-on-rails/phase-1)
+* [Ruby on Rails: Phase 1](../assignments/ruby-on-rails/phase-1)
 
 ## Week 5
 
 ### Lectures
-* [Umbrella (Intro to APIs)](../ruby-enrichment/index)
-* [QR Code Generator 1](../ruby-enrichment/index)
-* [RPS RCAV](../ruby-on-rails/phase-1)
+* [Umbrella (Intro to APIs)](../assignments/ruby-enrichment#umbrella-intro-to-apis)
+* [QR Code Generator 1](../assignments/ruby-enrichment#qr-code-generator-1)
+* [RPS RCAV](../assignments/ruby-on-rails/phase-1#101-rps-rcav)
 
 ### Readings
 * [Setup a password manager](../readings/password)
