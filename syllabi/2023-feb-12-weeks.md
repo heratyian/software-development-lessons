@@ -43,15 +43,17 @@ February 2023
 ## Week 3
 
 ### Lectures
-* [Data Modeling Very Best](https://heratyian.github.io/software-development-lessons/data-modeling-very-best/index)
-* [Ruby Foundations](https://heratyian.github.io/software-development-lessons/ruby-foundations/index)
-* [Domain Names](../domain-names/index)
+* [Data Modeling Very Best](../slides/data-modeling-very-best/index)
+* [Ruby Foundations](../slides/ruby-foundations/index)
 * [Rubber Duck Debugging](https://www.thoughtfulcode.com/rubber-duck-debugging-psychology/)
 
 ### Assignments
-* [Exercism: Learn Ruby](https://exercism.org/tracks/ruby)
-* [Yet Another Ruby](../yet-another-ruby/index)
-* [Ruby Enrichment](../ruby-enrichment/index)
+* [Exercism: Learn Ruby](../assignments/exercism-learn-ruby.md)
+* [Yet Another Ruby](../assignments/yet-another-ruby/index)
+* [Ruby Enrichment](../assignments/ruby-enrichment)
+
+### Readings
+* [Domain Names](../readings/domain-names/index)
 
 ## Week 4
 
