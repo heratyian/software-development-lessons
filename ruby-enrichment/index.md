@@ -19,6 +19,8 @@ PIRATE_WEATHER_KEY
 [video](https://illinois.zoom.us/rec/share/vWFXcyAIeqah95liEQbpRFWp_oM7jTbRwDCICwhTQUUQz-mDXHY5b4VY8dN3WySH.pTxskO8PFEG_cwoo)
 
 
+## [Interacting with OpenAi API](https://gist.github.com/raghubetina/e9c872c1d286e81dad66949af5bcbe27)
+
 ## [Chat GPT Challenge](https://gist.github.com/raghubetina/63ea9855a0c4abc6ed3dab603a1a27e8)
 
 To view the target, you’ll need these:

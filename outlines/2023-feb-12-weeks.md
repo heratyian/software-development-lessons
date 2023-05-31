@@ -83,6 +83,7 @@ February 2023
 
 ### Lectures
 * [AI Intro](https://firstdraft.slides.com/raghubetina/ai-intro-546b32)
+* [Interacting with OpenAi API](../ruby-enrichment/index)
 * [Chat GPT Challenge](../ruby-enrichment/index)
 
 ### Readings
