@@ -2,30 +2,10 @@
 
 Slides are built using [Marp](https://github.com/marp-team/marp-cli)
 
-## Developer Basics
-- [Asking Questions](./asking-questions/index)
-- [Using the Terminal](./terminal/index)
-- [Taking Notes Like a Developer](./taking-notes-like-a-developer/index)
-- [VSCode Shortcuts](./vscode-shortcuts/index)
-- [Cargo Culting and Debugging](./cargo-culting/index)
-- [Working Together](./working-together/index)
-- [Interviewing](./interviewing/index)
+## Assignments
 
-## Version Control and Git
-- [Version Control with Git](./version-control-with-git/index)
-- [Git Remote and GitHub](./git-remote-and-github/index)
+## Readings
 
-
-### Ruby
-- [Running Ruby Locally](./running-ruby-locally/index)
-- [Ruby Foundations](./ruby-foundations/index)
-- [Codecademy](https://www.codecademy.com/learn/learn-ruby)
-- [Exercism](https://exercism.org/tracks/ruby)
-
-### Data Modeling
-- [Records and Relationships](./records-and-relationships/index)
-- [Yap](./data-modeling/yap/index)
-- [Very Best](./data-modeling/very-best/index)
 
 ## Slides
 
@@ -47,7 +27,6 @@ Slides are built using [Marp](https://github.com/marp-team/marp-cli)
 16. [Working Together](./slides/working-together/index)
 17. [Interviewing](./slides/interviewing/index)
 
-## Readings
 
 
 ## Syllabi

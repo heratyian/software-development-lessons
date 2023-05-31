@@ -27,7 +27,7 @@ February 2023
 ### Lectures
 * [Data Modeling Yap](../slides/data-modeling-yap/index)
 * [Taking Notes Like a Developer](../slides/taking-notes-like-a-developer/index)
-* [Data Modeling Todo List](../data-modeling/todo-list)
+* [Data Modeling Todo List](../assignments/data-modeling-todo-list)
 * [Running Ruby Locally](../slides/running-ruby-locally/index)
 * [Asking Questions](https://firstdraft.slides.com/raghubetina/pttl-asking-questions-on-piazza)
 
@@ -80,15 +80,15 @@ February 2023
 ## Week 6
 
 ### Lectures
-* [Planning and Diagramming Your Idea](../data-modeling/planning-diagramming-idea)
-* [ActiveRecord queries and associations (deep dive in MSM Queries)](../ruby-on-rails/phase-1)
+* [Planning and Diagramming Your Idea](../readings/planning-diagramming-idea)
+* [ActiveRecord queries and associations (deep dive in MSM Queries)](../assignments/ruby-on-rails/phase-1#109-msm-queries)
 
 ## Week 7
 
 ### Lectures
 * [AI Intro](https://firstdraft.slides.com/raghubetina/ai-intro-546b32)
-* [Interacting with OpenAi API](../ruby-enrichment/index)
-* [Chat GPT Challenge](../ruby-enrichment/index)
+* [Interacting with OpenAi API](../assignments/ruby-enrichment#interacting-with-openai-api)
+* [Chat GPT Challenge](../assignments/ruby-enrichment#chat-gpt-challenge)
 
 ### Readings
 * [Several weekends worth of AI reading](../readings/ai)
@@ -96,18 +96,18 @@ February 2023
 ## Week 8
 
 ### Lectures
-* [Data Model: Offer Right](../data-modeling/offer-right/index)
-* [Deploying your app with Render](https://gist.github.com/heratyian/706d70d1e5aee64f2dd40ea0664f730e)
-* [Bootstrap](https://github.com/appdev-projects/bootstrap-levels-2)
+* [Data Model: Offer Right](../assignments/data-modeling-offer-right/index)
+* [Deploying your app with Render](../assignments/deploy-app-with-render)
+* [Bootstrap](../assignments/bootstrap)
 
 ### Assignments
-* [Ruby on Rails: Phase 2](../ruby-on-rails/phase-2)
+* [Ruby on Rails: Phase 2](../assignments/ruby-on-rails/phase-2.md)
 
 ## Week 9
 
 ### Lectures
-* [Working together on GitHub (branching, merging, and pull requests)](../version-control/working-together-on-github)
-* [Creating a new Rails app from scratch](https://github.com/firstdraft/appdev-lessons/blob/main/lessons/codespace-setup-lesson#starting-a-rails-project-from-scratch)
+* [Working together on GitHub (branching, merging, and pull requests)](../readings/working-together-on-github)
+* [Creating a new Rails app from scratch](../readings/creating-a-rails-app-from-scratch)
 <!-- TODO: slides -->
 * [Freelance Project Screening]()
 
@@ -115,21 +115,21 @@ February 2023
 
 ### Lectures
 <!-- See readings -->
-* [Rails Generators and Migrations](../ruby-on-rails/generators-and-migrations)
+* [Rails Generators and Migrations](../readings/generators-and-migrations)
 <!-- TODO: copy from canvas -->
-* [Guidelines & Tips for Showcase](../showcase/index)
-* [Cargo Culting & Debugging](https://heratyian.github.io/software-development-lessons/cargo-culting/index)
+* [Guidelines & Tips for Showcase](../readings/showcase/index)
+* [Cargo Culting & Debugging](../slides/cargo-culting/index)
 
 ## Week 11
 
 ### Lectures
-* [Adding Sample Data](../ruby-on-rails/adding-sample-data)
-* [Sorting, searching, and pagination](../ruby-on-rails/sorting-searching-pagination)
-* [Images](../ruby-on-rails/images)
+* [Adding Sample Data](../readings/adding-sample-data)
+* [Sorting, searching, and pagination](../readings/sorting-searching-pagination)
+* [Images](../readings/images)
 
 ## Week 12
 
 ### Lectures
-* [Deploying your app with render](https://gist.github.com/heratyian/706d70d1e5aee64f2dd40ea0664f730e)
-* [Working together](https://heratyian.github.io/software-development-lessons/working-together/index)
-* [Interviewing for software jobs](https://heratyian.github.io/software-development-lessons/interviewing/index)
+* [Deploying your app with render](../assignments/deploy-app-with-render)
+* [Working together](../slides/working-together/index)
+* [Interviewing for software jobs](../slides/interviewing/index)
