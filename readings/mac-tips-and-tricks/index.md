@@ -1,4 +1,10 @@
-# Mac tips
+# [Mac tips](https://learn.firstdraft.com/lessons/2)
+
+## Take a screenshot
+
+entire screen (⌘ + shift + 3 )
+partial screen (⌘ + shift + 4)
+
 
 ## Trackpad
 ### Two-fingers to scroll

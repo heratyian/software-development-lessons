@@ -25,18 +25,20 @@ February 2023
 ## Week 2
 
 ### Lectures
-* [Data Modeling Yap](https://heratyian.github.io/software-development-lessons/data-modeling-yap/index)
-* [Mac Tips & Tricks](https://learn.firstdraft.com/lessons/2)
-* [Taking Notes Like a Developer](../taking-notes-like-a-developer/index)
+* [Data Modeling Yap](../slides/data-modeling-yap/index)
+* [Taking Notes Like a Developer](../slides/taking-notes-like-a-developer/index)
 * [Data Modeling Todo List](../data-modeling/todo-list)
-* [Running ruby locally](https://heratyian.github.io/software-development-lessons/running-ruby-locally/index)
+* [Running Ruby Locally](../slides/running-ruby-locally/index)
 * [Asking Questions](https://firstdraft.slides.com/raghubetina/pttl-asking-questions-on-piazza)
-* [Stand Ups](../readings/stand-ups)
 
 ### Assignments
-* [Treehouse: Learn Ruby](https://dpi.instructure.com/courses/176/assignments/1210)
-* [Codecademy: Learn Ruby](https://www.codecademy.com/learn/learn-ruby)
-* Submit final project ideas
+* [Treehouse: Learn Ruby](../assignments/treehouse-learn-ruby.md)
+* [Codecademy: Learn Ruby](../assignments/codecademy-learn-ruby.md)
+* [Submit final project ideas](../assignments/final-project-1.md)
+
+### Readings
+* [Stand Ups](../readings/stand-ups)
+* [Mac Tips & Tricks](../readings/mac-tips-and-tricks/index)
 
 ## Week 3
 
