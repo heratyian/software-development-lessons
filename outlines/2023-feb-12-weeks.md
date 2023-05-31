@@ -104,7 +104,6 @@ February 2023
 ### Lectures
 * [Working together on GitHub (branching, merging, and pull requests)](../version-control/working-together-on-github)
 * [Creating a new Rails app from scratch](https://github.com/firstdraft/appdev-lessons/blob/main/lessons/codespace-setup-lesson#starting-a-rails-project-from-scratch)
-
 <!-- TODO: slides -->
 * [Freelance Project Screening]()
 
