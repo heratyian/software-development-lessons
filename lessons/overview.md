@@ -1,6 +1,9 @@
 # Overview
 This lesson provides an overview of the 12-week web development course.
 
+## Topics
+- Software as a Service (SaaS)
+
 - [Slides](../slides/overview/index)
 
 ## Questions
@@ -195,3 +198,7 @@ By the end of this course, you'll know how to do this for **$17/month**
     2. Try the optional assignments to extend your learning if you're feeling confident.
     3. Try applying the concepts you've learned to your own ideas. (Best possible way to learn.) I can bounce ideas with you.
     4. Some students have reported watching the videos over again at 2x speed is helpful.
+
+## Next Up
+
+[Record Keeping](./record-keeping)
