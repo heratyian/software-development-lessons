@@ -4,9 +4,10 @@ February 2023
 ## Week 1
 
 ### Lectures
-* [Overview](../slides/overview/index)
-* [Records & Relationships](../slides/records-and-relationships/index)
-* [HTML](../slides/html/index)
+* [Overview](../lessons/overview)
+* [Record Keeping](../lessons/record-keeping)
+* [Records & Relationships](../lessons/records-and-relationships)
+* [HTML](../lessons/html)
 * [CSS](../slides/css/index)
 * [Asking Questions](../slides/asking-questions/index)
 

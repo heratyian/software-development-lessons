@@ -34,4 +34,4 @@ Justify it.
 
 ## Next Up
 
-[HTML and CSS](./html-and-css)
+[HTML](./html)

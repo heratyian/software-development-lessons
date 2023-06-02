@@ -10,6 +10,8 @@ Slides are built using [Marp](https://github.com/marp-team/marp-cli)
 - [Overview](./lessons/overview)
 - [Record Keeping](./lessons/record-keeping)
 - [Records and Relationships](./lessons/records-and-relationships)
+- [HTML](./lessons/html)
+- [CSS](./lessons/css)
 
 
 ## Slides
