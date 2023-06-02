@@ -8,6 +8,9 @@ This lesson goes over CSS: why and how we use it
 - CSS
 
 <!-- TODO: add story: tie it to a concrete concept that you already understand -->
+<!-- You want to make your text beautiful and look a certain way. -->
+<!-- TODO: add bootstrap reference -->
+
 
 ## CSS (Cascading Style Sheets)
 

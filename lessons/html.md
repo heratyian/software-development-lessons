@@ -8,6 +8,7 @@ This lesson goes over HTML: why and how we use it
 - HTML
 
 <!-- TODO: add story: tie it to a concrete concept that you already understand -->
+<!-- You have a bunch of text, but want to connect it to other places. Like a book with annotations. -->
 
 ## HTML (HyperText Markup Language)
 
