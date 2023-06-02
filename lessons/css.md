@@ -2,7 +2,7 @@
 This lesson goes over CSS: why and how we use it
 
 <!-- TODO -->
-## [Slides - CSS](../slides/css/index)
+## [Slides](../slides/css/index)
 
 ## Topics
 - CSS

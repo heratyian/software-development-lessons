@@ -2,7 +2,7 @@
 This lesson goes over HTML: why and how we use it
 
 <!-- TODO -->
-## [Slides - HTML](../slides/html/index)
+## [Slides](../slides/html/index)
 
 ## Topics
 - HTML
