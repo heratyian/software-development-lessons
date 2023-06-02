@@ -6,7 +6,6 @@ This lesson provides an overview of the 12-week web development course.
 ## Topics
 - Software as a Service (SaaS)
 
-
 ## Questions
 - This course is question-driven.
 - We need you to ask questions.
@@ -91,22 +90,7 @@ Uniform Resource Locator
 
 3. Profit!
 
-## About Me
-- Hi! I'm Ian
-- Back in 2012 I was living in Shenzhen, China teaching English
-- I wanted to to learn "how to code".
-- Specifically, I wanted to build an iOS app — but I didn't know anyone who knew how or what to learn to get there.
-- Tried learning from books
-  - c#
-  - arduino
-  - objective-c
-- Massive Open Online Courses
-  - Harvard CS50
-  - Treehouse
-  - Make School
-- I moved back to Chicago in 2016 and got an internship building port/intermodal terminal solutions at Mi-Jack. Got on the job experience writing python, .NET C#, and LOTS of technical documentation.
-- Hired by Nerdery to build iOS apps. Moved over to web development react js and .NET C# backend due to need and willingness to learn.
-- Founded [https://biggreen.company](https://biggreen.company), [https://popping.live](https://popping.live), and [https://receipt-ai.com](https://receipt-ai.com) all with Ruby on Rails
+## [Learning Journey](./learning-journey.md)
 
 ## Computer Science
 
