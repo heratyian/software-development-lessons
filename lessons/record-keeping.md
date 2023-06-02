@@ -1,35 +1,30 @@
 # Record Keeping
 This lesson reviews the history of record keeping and takes a first look at database design.
 
+<!-- TODO: make separate slides -->
+## [Slides](../slides/overview/index)
+
 ## Topics
 - domain modeling
 - database design
 
-<!-- TODO: make separate slides -->
-- [Slides](../slides/overview/index)
-
-
-## Out of all the stuff we have to learn: where to begin?
-
-## The foundation of the world was the written word
-
-## The foundation of the world today is software
-
-## What were they writing?
-
-## Who is the first person whose name we know?
+## History of Record Keeping
+- Out of all the stuff we have to learn: where to begin?
+- The foundation of the world was the written word
+- The foundation of the world today is software
+- What were they writing?
+- Who is the first person whose name we know?
 <!-- [Kushim](https://en.wikipedia.org/wiki/Kushim_(Uruk_period)) -->
+- "29,086 measures barley; 37 months — Kushim"
 
-
-## "29,086 measures barley; 37 months — Kushim"
 >
 > It is telling that the first recorded name in history belongs to an accountant, rather than a prophet, a poet, or a great conqueror.
 >
 > Yuval Noah Harari, Sapiens: A Brief History of Humankind
 
-## What were they printing?
+- What were they printing?
 
-What was the best-selling book? (after the Bible?)
+- What was the best-selling book? (after the Bible?)
 
 - In the 17th century, English almanacs were bestsellers, second only to the Bible
 
@@ -39,7 +34,7 @@ What was the best-selling book? (after the Bible?)
    - tide tables
    - tabular information often arranged according to the calendar.
 
-## The killer application of writing, and printing, was recordkeeping
+- The killer application of writing, and printing, was recordkeeping
 
 ## The killer application of computing is also recordkeeping
 - The heart of any application is the information it is keeping track of.

@@ -1,10 +1,11 @@
 # Overview
 This lesson provides an overview of the 12-week web development course.
 
+## [Slides](../slides/overview/index)
+
 ## Topics
 - Software as a Service (SaaS)
 
-- [Slides](../slides/overview/index)
 
 ## Questions
 - This course is question-driven.

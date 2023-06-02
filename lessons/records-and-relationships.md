@@ -1,11 +1,11 @@
 # Records and Relationships
 This lesson practices domain modeling and when to use a **one-to-many** or a **many-to-many** relationship.
 
+## [Slides](../slides/records-and-relationships/index)
+
 ## Topics
 - domain modeling
 - database design
-
-- [Slides](../slides/records-and-relationships/index)
 
 ## What are the associations?
 - Cities and Neighborhoods
