@@ -152,7 +152,8 @@ ul {
 
 [External style sheets workspace in Replit](https://replit.com/@raghubetina1/External-style-sheets)
 
-<!-- TODO: add bootstrap reference -->
+- We'll be using [Bootstrap](https://getbootstrap.com/) to give us a base of pre-built styles.
+- Just need to add [these links](https://chapters.firstdraft.com/chapters/788#quick-links-to-assets) to the `<head>`
 
 ### Resources
 - [Mozilla Developer Network MDN](https://developer.mozilla.org/en-US/docs/Web/CSS)
