@@ -2,10 +2,6 @@
 
 Slides are built using [Marp](https://github.com/marp-team/marp-cli)
 
-## Assignments
-
-## Readings
-
 ## Lessons
 - [Overview](./lessons/overview)
 - [Learning Journey](./lessons/learning-journey)
@@ -13,7 +9,7 @@ Slides are built using [Marp](https://github.com/marp-team/marp-cli)
 - [Records and Relationships](./lessons/records-and-relationships)
 - [HTML](./lessons/html)
 - [CSS](./lessons/css)
-
+- [Asking Questions](./lessons/asking-questions)
 
 ## Slides
 1. [Overview](./slides/overview/index)
