@@ -6,6 +6,8 @@ This lesson provides an overview of the 12-week web development course.
 ## Topics
 - Software as a Service (SaaS)
 
+
+<!-- TODO: just link to asking questions lesson -->
 ## Questions
 - This course is question-driven.
 - We need you to ask questions.
