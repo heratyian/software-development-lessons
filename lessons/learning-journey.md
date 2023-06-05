@@ -6,12 +6,6 @@ This lesson gives some context around the timeline of what learning to code *act
 - Hi! I'm Ian 👋
 - Here is a timeline of my journey learning to code
 
-### pre-2007
-- Computers are cool 🖥️
-- Playing video games 🎮
-- Hanging out in school IT department and Radio Club 💾
-- Family designated IT support role 😂
-
 ### 2011
 - **August** - IT internship racking servers, hanging monitors and fixing printers. 🖨️
 - **October** - Tried learning C# from book. Confusion. 🫤
