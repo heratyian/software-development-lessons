@@ -7,26 +7,14 @@ This lesson goes over HTML: why and how we use it
 ## Topics
 - HTML
 
-<!-- TODO: add story: tie it to a concrete concept that you already understand -->
-<!-- You have a bunch of text, but want to connect it to other places. Like a book with annotations. -->
-
 ## Story
-
-Once upon a time, there was a talented young writer named Emily. She had a passion for storytelling and had written numerous captivating short stories. However, Emily faced a challenge - her stories remained hidden in notebooks tucked away on her bookshelf.
-
-One day, Emily discovered the power of the internet 🛜. She realized that she could share her stories with people from all around the world 🌎. Excited by the idea, she decided to create a website where she could publish her stories for everyone to read 📖.
-
-But there was a problem. Emily quickly realized that simply posting her stories as plain text on a webpage wouldn't be engaging enough. She wanted her readers to have a more immersive experience. So she turned to a magical language called **HTML**.
-
-HTML, short for Hypertext Markup Language, allowed Emily to enhance her stories. It was a language specifically designed for creating webpages. With HTML, Emily could add structure and meaning to her content.
-
-Emily started by using HTML **tags** to mark up her text. She used **headings** `<h1>` to make her story titles stand out, **paragraphs** `<p>` to organize her thoughts, and even bold `<b>` and italic `<i>` tags to emphasize certain words or phrases.
-
-But the real magic happened when Emily discovered hyperlinks. Hyperlinks were like portals that allowed her readers to jump from one webpage to another with just a click. Emily used the `<a>` tag, short for anchor, to create these hyperlinks. She could link to other stories on her website, external websites for additional information, or even create navigation menus to help her readers explore her collection.
-
-As Emily continued to learn and experiment with HTML, her stories came alive on the web. With each hyperlink, she connected her readers to new adventures and ideas. Her website became a gateway to an enchanting world of imagination, where her readers could lose themselves in her stories.
-
-Thanks to HTML, Emily's stories no longer remained hidden on her bookshelf. And so, the tale of Emily and HTML reminds us that with the power of markup and hyperlinks, we can transform simple webpages into captivating and interactive experiences for our readers.
+- Emily wanted to share her stories with the world 🌍📚
+- She discovered the power of the internet and decided to create a website for publishing her stories 🌐📖
+- Emily realized that plain text wasn't engaging enough and turned to **HTML**, the magical language for creating webpages ✨💻
+- HTML allowed Emily to add structure and meaning to her content using tags like **headings** `<h1>`, **paragraphs** `<p>`, bold `<b>`, and italic `<i>` 🏷️📝
+- Emily discovered the magic of hyperlinks, using the `<a>` tag, which connected her readers to new adventures and ideas 🌐🔗
+- With each hyperlink, Emily's stories came alive on the web, creating an enchanting world of imagination 📚✨
+- HTML transformed Emily's stories from hidden notebooks to captivating and interactive experiences on her website 📖🌈
 
 ## HTML (HyperText Markup Language)
 - **HyperText** is a fancy word for text with links
