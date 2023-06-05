@@ -7,20 +7,22 @@ This lesson goes over CSS: why and how we use it
 ## Topics
 - CSS
 
-<!-- TODO: add story: tie it to a concrete concept that you already understand -->
-<!-- You want to make your text beautiful and look a certain way. -->
-<!-- TODO: add bootstrap reference -->
-
+## Story
+- Olivia, a talented artist, wants to showcase her artwork on the web. 👩‍🎨
+- She discovered **CSS**, the magical language for styling web pages. ✨💻
+- CSS allowed Olivia to bring her designs to life and create visually captivating experiences.
+- She used CSS to customize colors, fonts, layouts, and more on her web pages. 🎨🎉
+- The power of cascading in CSS allowed changes to ripple through multiple **elements**. 🌊💫
+- Olivia used CSS selectors to **target** specific **elements** and apply **styles**.
+- She explored advanced CSS features like media queries, animations, and transitions. 📐🎥
+- CSS became Olivia's artistic palette, and the web became her canvas. 🎨🌐
+- With CSS, Olivia's artwork leaped off the screen, captivating her audience.
+- CSS turned Olivia's designs into breathtaking masterpieces on the web. 🎭✨
 
 ## CSS (Cascading Style Sheets)
+- A **style sheet language** used for describing presentation of a document written in a **markup language**
 
-A **style sheet language** used for describing presentation of a document written in a **markup language**
-
-Created by Håkon Wium Lie at CERN in Switzerland in the 90s so researchers could style documents
-
-
-
-## CSS Syntax
+### CSS Syntax
 
 ```css
 h1 {
@@ -29,25 +31,16 @@ h1 {
 }
 ```
 
-A **selector**, `h1`
+- A **selector**, `h1`
+- Followed by a **declaration block** within curly brackets `{}`
+- Each declaration is separated from the next by a semicolon `;`
+- A **declaration** is comprised of a *property* and a *value* separated by a colon `:`
+- Collectively, the **selector** and **declaration block** is one **style rule**
 
-Followed by a **declaration block** within curly brackets `{}`
-
-Each declaration is separated from the next by a semicolon `;`
-
-A **declaration** is comprised of a *property* and a *value* separated by a colon `:`
-
-Collectively, the **selector** and **declaration block** is one **style rule**
-
-
-
-## Selectors
-
-Selectors are how we specify which HTML elements we want our style rule to apply to.
-
-**Tag Selectors** target all elements of a particular type
-
-e.g. all `<h1>` or all `<ul>`:
+### Selectors
+- Selectors are how we specify which HTML elements we want our style rule to apply to.
+- **Tag Selectors** target all elements of a particular type
+- e.g. all `<h1>` or all `<ul>`:
 
 ```css
 h1 {
@@ -61,13 +54,7 @@ ul {
 }
 ```
 
-
-
-
-
-## Selectors
-
-**Tag Selectors** are usually too broad, so typically we define **Class Selectors** instead by making up a name and preceding it with a dot `.`
+- **Tag Selectors** are usually too broad, so typically we define **Class Selectors** instead by making up a name and preceding it with a dot `.`
 
 ```css
 .company-name {
@@ -81,11 +68,7 @@ ul {
 }
 ```
 
-
-
-## Selectors
-
-We then apply the rules to our HTML elements using the class="" attribute:
+- We then apply the rules to our HTML elements using the class="" attribute:
 
 ```html
 	
@@ -98,11 +81,8 @@ We then apply the rules to our HTML elements using the class="" attribute:
 </ul>
 ```
 
-
-
-## Multiple classes
-
-If possible, it's a good idea to keep your class style rules modular:
+### Multiple classes
+- If possible, it's a good idea to keep your class style rules modular:
 
 ```css	
 .medium-border {
@@ -113,14 +93,9 @@ If possible, it's a good idea to keep your class style rules modular:
   padding: 100px;
 }
 ```
-
-
-## Multiple classes
-
-Then, you can combine them by applying multiple classes to the same HTML element:
+- Then, you can combine them by applying multiple classes to the same HTML element:
 
 ```html
-	
 <div class="medium-border big-padding">
   <h1 class="company-name">Our Awesome Company</h1>
  
@@ -132,9 +107,7 @@ Then, you can combine them by applying multiple classes to the same HTML element
 </div>
 ```
 
-## Multiple classes
-
-You can still use them individually elsewhere, too, which helps maintain consistency:
+- You can still use them individually elsewhere, too, which helps maintain consistency:
 
 ```css	
 .medium-border {
@@ -156,39 +129,34 @@ You can still use them individually elsewhere, too, which helps maintain consist
 </p>
 ```
 
-## CSS Fundamentals
+### CSS Fundamentals Practice
 
-[Open workspace in Replit](https://replit.com/@raghubetina1/CSS-Fundamentals)
+[CSS Fundamentals workspace in Replit](https://replit.com/@raghubetina1/CSS-Fundamentals)
 
-## External style sheets
+### External style sheets
 
-Technically you could write CSS right inside an HTML element using the style="" attribute:
+- Technically you could write CSS right inside an HTML element using the style="" attribute:
 
 ```html
 <p style="padding: 100px;">Our mission is to...</p>
 ```
 
-As we've seen, it's much more re-usable to define classes. And even better than putting those classes in a `<style>` element within the same HTML document is to put them in an external style sheet.
-
-Create a file ending in .css and then add a `<link>` element to the HTML file to connect it:
+- As we've seen, it's much more re-usable to define classes. And even better than putting those classes in a `<style>` element within the same HTML document is to put them in an external style sheet.
+- Create a file ending in .css and then add a `<link>` element to the HTML file to connect it:
 
 ```html
 <link rel="stylesheet" href="/my_styles.css">
 ```
 
-Now you can easily re-use your rules across all the pages in your site.
+- Now you can easily re-use your rules across all the pages in your site.
 
+[External style sheets workspace in Replit](https://replit.com/@raghubetina1/External-style-sheets)
 
-## External style sheets
+<!-- TODO: add bootstrap reference -->
 
-[Open workspace in Replit](https://replit.com/@raghubetina1/External-style-sheets)
-
-
-## Resources
-
-[Mozilla Developer Network MDN](https://developer.mozilla.org/en-US/docs/Web/CSS)
-
-[DevDocs](https://devdocs.io/css/)
+### Resources
+- [Mozilla Developer Network MDN](https://developer.mozilla.org/en-US/docs/Web/CSS)
+- [DevDocs](https://devdocs.io/css/)
 
 ## Next Up
 
