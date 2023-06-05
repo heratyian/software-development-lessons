@@ -53,4 +53,4 @@ This lesson goes over asking questions
 
 ## Next Up
 
-[](./)
+[Data Modeling - Yap](./data-modeling-yap)

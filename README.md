@@ -10,6 +10,7 @@ Slides are built using [Marp](https://github.com/marp-team/marp-cli)
 - [HTML](./lessons/html)
 - [CSS](./lessons/css)
 - [Asking Questions](./lessons/asking-questions)
+- [Data Modeling - Yap](./lessons/data-modeling-yap)
 
 ## Slides
 1. [Overview](./slides/overview/index)
