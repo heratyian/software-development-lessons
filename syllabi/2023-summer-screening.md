@@ -2,7 +2,7 @@
 
 ## Part 1
 
-### Slides
+### Lessons
 <!-- TODO: add some overview -->
 - [Asking Questions](../slides/asking-questions/index)
 <!-- TODO: combine. -->
@@ -18,14 +18,14 @@
 - [Link in Bio](../assignments/link-in-bio)
 <!-- TODO: add apprentice profile page to link in bio -->
 
-### Readings
+### Resources
 <!-- how to push commit with git? -->
 - [HTML Reference](https://chapters.firstdraft.com/chapters/771)
 - [Getting automated feedback with rails grade](https://chapters.firstdraft.com/chapters/777)
 
 ## Part 2
 
-### Slides
+### Lessons
 <!-- TODO: more readings / support on ruby? -->
 <!-- TODO: show how to use irb in codespaces -->
 - [Ruby Foundations](../slides/ruby-foundations/index)
@@ -37,7 +37,8 @@
 <!-- TODO: Maybe something with APIs? -->
 - [Ruby Gym](../assignments/ruby-gym)
 
-### Readings
+### Resources
 - [The one ruby reference](https://chapters.firstdraft.com/chapters/774)
 - [Try Ruby (optional)](https://try.ruby-lang.org/)
 - [Official ruby documentation](https://ruby-doc.org/)
+- [Ruby Programming | In one video](https://youtu.be/8wZ2ZD--VTk)
