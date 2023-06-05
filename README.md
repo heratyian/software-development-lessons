@@ -32,8 +32,6 @@ Slides are built using [Marp](https://github.com/marp-team/marp-cli)
 16. [Working Together](./slides/working-together/index)
 17. [Interviewing](./slides/interviewing/index)
 
-
-
 ## Syllabi
 - [2023 Feb 12-Weeks](./syllabi/2023-feb-12-weeks)
 - [2023 Summer Screening](./syllabi/2023-summer-screening)
