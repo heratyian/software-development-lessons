@@ -86,4 +86,4 @@ https://www.markdownguide.org/cheat-sheet/
 
 ## Next Up
 
-[](./)
+[Data Modeling - Very Best](./data-modeling-very-best)
