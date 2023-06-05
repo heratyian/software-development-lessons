@@ -6,16 +6,7 @@ This lesson provides an overview of the 12-week web development course.
 ## Topics
 - Software as a Service (SaaS)
 
-
-<!-- TODO: just link to asking questions lesson -->
-## Questions
-- This course is question-driven.
-- We need you to ask questions.
-- Speak up whenever you feel like it, or raise your hand.
-- If you're not sure whether it's relevant to everyone, wave over a TA and ask them; they'll decide and escalate.
-- Outside of class, our rule: **You're only allowed to get stuck for 15 minutes before asking a question**.
-- I'll be posted up in the class room, Slack, and Piazza.
-- The course is organized according to the the 🔐 **lock-before-key** principle; until someone asks the question, I won't provide the info needed to solve an exercise.
+## [Questions](./asking-questions)
 
 ## "app"
 - There are three kinds of software:
