@@ -1,30 +1,45 @@
----
-marp: true
-title: Running Ruby On Your Own Machine
-paginate: true
----
+# Interactive Ruby
+This lesson goes over interactive ruby (irb): why and how we use it
 
-# Running Ruby On Your Own Machine
+<!-- TODO: update slides -->
+## [Slides](../slides/interactive-ruby/index)
 
----
+## Topics
+- Ruby
+
+## Interactive Ruby
+- You're working on a coding problem 🧑‍💻.
+- You need to test and experiment with small snippets of Ruby code quickly and interactively test an idea.
+- Luckily, you have the IRB shell 🪄✨.
+- In the IRB shell, you can try out lines of Ruby code and see the results immediately, without the need for writing and running a whole program.
+- It's like having a virtual playground where you can experiment and explore the capabilities of Ruby in real-time ⚙️🔬.
+- With each session in the IRB shell, your skills grow stronger, and you'll become more confident in your ability to write robust and efficient Ruby code 💪💎.
+
+
+### Locally
+
+
+### Replit
+
+https://replit.com/
+
+
+
 # TODO
 
 1. Play around with `irb`
-
 2. Create `Workspace/scratch` folder
-
 3. Setup and configure your code editor (vscode)
-
 4. Write and run a ruby program on your machine
 
----
+
 
 # Terminal
 open your terminal
 <!-- command + space (open spotlight search) -->
 <!-- search 'terminal', press `enter` -->
 
----
+
 
 # Ruby
 Ruby comes preinstalled on macOS
@@ -36,7 +51,7 @@ This is your system ruby. You'll need to install different versions when develop
 Make sure you are using the correct version in [Ruby Docs](https://ruby-doc.org/) 
 
 
----
+
 
 ## Interactive Ruby (irb)
 
@@ -46,18 +61,11 @@ play around with ruby
 
 type `exit` to exit irb shell
 
----
 
-# Create `scratch/` Folder
 
-<!-- root path ~ -->
-Enter `open .` in terminal window to open Finder
 
-Create `Workspace/scratch/` folder
 
-We can keep experimental ruby scripts in `scratch/`
 
----
 
 # Setup vscode
 
@@ -67,7 +75,7 @@ We can keep experimental ruby scripts in `scratch/`
 
 2. File -> Open Folder... -> (click `Workspace/scratch/` folder)
 
----
+
 
 # Create And Run Ruby File
 <!-- we should be in vscode scratch folder -->
@@ -87,7 +95,7 @@ puts "Hello #{name}"
 
 Enter `ruby hello.rb` in the terminal
 
----
+
 
 # Download Treehouse Workspace
 
@@ -95,7 +103,7 @@ Click `File`, `Download Workspace`
 
 ![bg right](treehouse-workspace.png)
 
----
+
 
 # Resources
 
@@ -111,8 +119,6 @@ Click `File`, `Download Workspace`
 
 ## Unix
 [Commands Cheatsheet](https://www.alexji.com/UNIXCheatSheet.pdf)
-
----
 
 ## 1337 Hacker
 
