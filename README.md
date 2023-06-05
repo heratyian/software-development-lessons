@@ -11,6 +11,7 @@ Slides are built using [Marp](https://github.com/marp-team/marp-cli)
 - [CSS](./lessons/css)
 - [Asking Questions](./lessons/asking-questions)
 - [Data Modeling - Yap](./lessons/data-modeling-yap)
+- [Taking Notes Like a Developer](./lessons/taking-notes)
 
 ## Slides
 1. [Overview](./slides/overview/index)

@@ -134,4 +134,4 @@ id|dob|name|bio|
 
 ## Next Up
 
-[](./)
+[Taking Notes Like a Developer](./taking-notes)
