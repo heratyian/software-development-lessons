@@ -8,6 +8,7 @@ Slides are built using [Marp](https://github.com/marp-team/marp-cli)
 
 ## Lessons
 - [Overview](./lessons/overview)
+- [Learning Journey](./lessons/learning-journey)
 - [Record Keeping](./lessons/record-keeping)
 - [Records and Relationships](./lessons/records-and-relationships)
 - [HTML](./lessons/html)
