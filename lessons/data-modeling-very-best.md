@@ -47,4 +47,4 @@ This lesson practices data modeling
 
 ## Next Up
 
-[](./)
+[Interactive Ruby](./interactive-ruby)

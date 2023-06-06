@@ -43,3 +43,8 @@ This lesson goes over interactive ruby (irb): why and how we use it
 
 ## Unix
 [Commands Cheatsheet](https://www.alexji.com/UNIXCheatSheet.pdf)
+
+
+## Next Up
+
+[Workspace](./workspace)
