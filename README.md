@@ -15,6 +15,10 @@ Slides are built using [Marp](https://github.com/marp-team/marp-cli)
 - [Data Modeling - Very Best](./lessons/data-modeling-very-best)
 - [Interactive Ruby](./lessons/interactive-ruby)
 - [Workspace](./lessons/workspace)
+- [Ruby Foundations](./lessons/ruby-foundations)
+
+
+<!-- TODO: how to write a README -->
 
 ## Slides
 1. [Overview](./slides/overview/index)
