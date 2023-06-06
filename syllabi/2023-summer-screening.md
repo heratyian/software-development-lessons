@@ -38,7 +38,7 @@
 - [Ruby Gym](../assignments/ruby-gym)
 
 ### Resources
-- [The one ruby reference](https://chapters.firstdraft.com/chapters/774)
+- [The One Ruby Reference](https://chapters.firstdraft.com/chapters/774)
 - [Try Ruby (optional)](https://try.ruby-lang.org/)
-- [Official ruby documentation](https://ruby-doc.org/)
-- [Ruby Programming | In one video](https://youtu.be/8wZ2ZD--VTk)
+- [Official Ruby Documentation](https://ruby-doc.org/)
+- [Ruby Programming In one video](https://youtu.be/8wZ2ZD--VTk)

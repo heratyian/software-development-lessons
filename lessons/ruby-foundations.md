@@ -140,3 +140,9 @@ That's all we need for now. We can build anything with these.
 - **"Google Fu"** is a hugely important skill to practice in software development. But, the answers you find may not be suitable for beginners; they may even slow you down.
 - The tasks assigned in *Yet Another Ruby Introduction* are achievable using the classes, methods, and keywords introduced in the Ruby Chapters. Your job is to invent a combination of them that gets the job done.
 - For now, ask us questions — we are your Google.
+
+### Resources
+- [The One Ruby Reference](https://chapters.firstdraft.com/chapters/774)
+- [Try Ruby (optional)](https://try.ruby-lang.org/)
+- [Official Ruby Documentation](https://ruby-doc.org/)
+- [Ruby Programming In one video](https://youtu.be/8wZ2ZD--VTk)

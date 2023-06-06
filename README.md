@@ -16,13 +16,14 @@ Slides are built using [Marp](https://github.com/marp-team/marp-cli)
 - [Interactive Ruby](./lessons/interactive-ruby)
 - [Workspace](./lessons/workspace)
 - [Ruby Foundations](./lessons/ruby-foundations)
-<!-- version control with git -->
+- [Version Control with Git](./lessons/version-control-with-git)
 <!-- terminal -->
 <!-- vscode shortcuts -->
 <!-- git remote and github -->
 <!-- cargo cult -->
 <!-- working together -->
 <!-- interviewing -->
+<!-- rubber duck debugging -->
 
 <!-- TODO: how to write a README -->
 
