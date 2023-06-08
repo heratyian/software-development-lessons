@@ -18,7 +18,7 @@ This lesson goes over HTML: why and how we use it
 
 ## HTML (HyperText Markup Language)
 - **HyperText** is a fancy word for text with links
-- **Markup** means we can add fancy symbols to control formatting and structure
+- **Markup** means we can add symbols to control formatting and structure
 
 
 ## HTML Syntax
