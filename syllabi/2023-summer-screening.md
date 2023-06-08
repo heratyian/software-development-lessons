@@ -4,10 +4,10 @@
 
 ### Lessons
 <!-- TODO: add some overview -->
-- [Asking Questions](../slides/asking-questions/index)
+- [Asking Questions](../lessons/asking-questions)
 <!-- TODO: combine. -->
-- [HTML](../slides/html/index)
-- [CSS](../slides/css/index)
+- [HTML](../lessons/html)
+- [CSS](../lessons/css)
 <!-- help with debugging? -->
 
 ### Assignments
@@ -16,6 +16,7 @@
 - [RPS HTML](../assignments/rps-html)
 <!--- [RPS CSS](../assignments/rps-css) -->
 - [Link in Bio](../assignments/link-in-bio)
+<!-- sign up for dev to? -->
 <!-- TODO: add apprentice profile page to link in bio -->
 
 ### Resources
@@ -28,7 +29,7 @@
 ### Lessons
 <!-- TODO: more readings / support on ruby? -->
 <!-- TODO: show how to use irb in codespaces -->
-- [Ruby Foundations](../slides/ruby-foundations/index)
+- [Ruby Foundations](../lessons/ruby-foundations)
 <!-- TODO: maybe some intro to using APIs, assessment on implementation -->
 <!-- TODO: maybe focus more on ruby basics? -->
 
