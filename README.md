@@ -25,6 +25,7 @@ Slides are built using [Marp](https://github.com/marp-team/marp-cli)
 <!-- interviewing -->
 <!-- rubber duck debugging -->
 <!-- pseudocode / comments -->
+<!-- chrome inspector -->
 
 <!-- TODO: how to write a README -->
 
