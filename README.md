@@ -27,6 +27,7 @@ Slides are built using [Marp](https://github.com/marp-team/marp-cli)
 <!-- pseudocode / comments -->
 <!-- build ruby util -->
 <!-- chrome inspector -->
+<!-- debugging rake/grade tests -->
 
 <!-- TODO: how to write a README -->
 
